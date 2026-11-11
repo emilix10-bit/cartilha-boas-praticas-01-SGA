@@ -23,3 +23,16 @@
 ### Dúvidas frequentes sobre alteração de cadastros
 
 | DÚVIDA | ORIENTAÇÃO |
+| :--- | :--- |
+| **Posso alterar dados de um usuário?** | Sim. Na gestão de usuários, é possível alterar nome, telefone, e-mail e matrícula. |
+| **Posso alterar um perfil depois da validação?** | Sim, o responsável pode excluir ou alterar perfis. Para isso, apresente os documentos exigidos para o perfil. |
+| **Posso vincular outra UASG?** | Quando aplicável, use a opção correspondente, selecione “Nova UASG”, defina o perfil e salve. |
+| **Como incluir novo responsável?** | Acesse “Usuários SIASG” e “Gerenciar usuários responsáveis”, selecione “Cadastrar”, preencha os campos e salve. |
+| **Como editar ou excluir responsável?** | Em “Gerenciar usuários responsáveis”, use “Editar” ou “Excluir”. Mantenha pelo menos um responsável ativo. Antes de excluir o último responsável cadastrado, cadastre um novo. |
+
+<br>
+<div style="text-align: right; margin: 10px 0;">
+  <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+    🖨️ Imprimir esta página
+  </button>
+</div>
