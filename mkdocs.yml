@@ -1,4 +1,4 @@
-site_name: Reforma Tributária nas contratações públicas - Guia SEGES
+site_name: Cartilha 01 - Sistema de Gestão de Acesso (SGA)
 
 theme:
   name: readthedocs
@@ -10,10 +10,26 @@ markdown_extensions:
       generic: true
 
 nav:
-  - Início: index.md
-  - "Versão Completa do material": manual-completo.md
+  - Introdução Geral: index.md
+  - Parte 1 - Guia Prático do Usuário e do Gestor:
+    - 1. Meu órgão precisa aderir ao SGA?: 01-meu-orgao-precisa-aderir.md
+    - 2. Quem é o responsável pelo SGA?: 02-quem-e-o-responsavel.md
+    - 3. Como cadastrar um usuário?: 03-como-cadastrar-usuario.md
+    - 4. Qual perfil devo solicitar?: 04-qual-perfil-devo-solicitar.md
+    - 5. Como gerar e encaminhar o termo?: 05-como-gerar-e-encaminhar-termo.md
+    - 6. Minha solicitação voltou. Como corrigir?: 06-solicitacao-voltou-como-corrigir.md
+    - 7. O que significa o status?: 07-o-que-significa-o-status.md
+    - 8. Como solicitar novos usuários?: 08-como-solicitar-novos-usuarios.md
+    - 9. Alterar usuários, perfis e responsáveis: 09-alterar-usuarios-perfis-responsaveis.md
+    - 10. Quando procurar a Central?: 10-quando-procurar-a-central.md
+    - 11. Erros mais comuns e como evitá-los: 11-erros-mais-comuns.md
+    - Perguntas Rápidas: 12-perguntas-rapidas.md
+    - Checklist de Verificação: 13-checklist-de-verificacao.md
+    - Glossário e Referências: 14-glossario-e-referencias.md
+  - Parte 2 - Roteiro para a Central de Atendimento:
+    - 12. Roteiro de Apoio (0800): 15-roteiro-central-atendimento.md
+  - Versão Completa do Material: manual-completo.md
 
-# Configuração dos estilos e scripts customizados
 extra_css:
   - custom.css
   - css/extra.css
