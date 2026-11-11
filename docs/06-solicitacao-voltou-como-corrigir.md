@@ -18,4 +18,28 @@
 
 **Assuntos relacionados:** [<a href="07-o-que-significa-o-status.md#secao-7">O que significa a situação apresentada?</a>](07-o-que-significa-o-status.md) \| [<a href="10-quando-procurar-a-central.md#secao-10">Quando devo procurar a Central?</a>](10-quando-procurar-a-central.md)
 
-!!! note "RESPOSTA
+!!! note "RESPOSTA RÁPIDA"
+    **Resposta rápida:** Não abra outra solicitação. Corrija a solicitação que já existe e envie novamente.
+
+---
+
+### Passo a passo para correção
+
+1. **Abra o comentário:** O comentário do administrador informa o que você precisa corrigir.
+2. **Edite ou exclua o registro:** No campo “Ações”, edite o registro indicado no comentário. Exclua o registro apenas se for necessário para corrigir o problema.
+3. **Salve as alterações:** Registre a correção no sistema.
+4. **Avance:** Passe para a próxima etapa.
+5. **Gere novamente o Termo:** Baixe, assine e anexe o documento corrigido.
+6. **Finalize:** Encaminhe novamente ao administrador.
+
+---
+
+!!! note "MENSAGEM ESPERADA"
+    **Nota:** Depois que você enviar a correção, o sistema mostrará a situação “Termo e usuário SIASG corrigidos”.
+
+<br>
+<div style="text-align: right; margin: 10px 0;">
+  <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+    🖨️ Imprimir esta página
+  </button>
+</div>
