@@ -12,15 +12,15 @@
 !!! note "Quem deve ler esta parte"
     **Nota:** Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
 
-# PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR
+<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
-<h2 id="secao-5">5. COMO GERAR E ENCAMINHAR O TERMO?</h2>
+<h1 id="secao-5" style="margin-top: 0;">5. COMO GERAR E ENCAMINHAR O TERMO?</h1>
 
-**Assuntos relacionados:** [<a href="06-solicitacao-voltou-como-corrigir.md#secao-6">Minha solicitação voltou. Como corrigir?</a>](06-solicitacao-voltou-como-corrigir.md) \| [<a href="07-o-que-significa-o-status.md#secao-7">O que significa a situação apresentada?</a>](07-o-que-significa-o-status.md)
+**Assuntos relacionados:** [Minha solicitação voltou. Como corrigir?](06-solicitacao-voltou-como-corrigir.md#secao-6) | [O que significa a situação apresentada?](07-o-que-significa-o-status.md#secao-7)
 
 ---
 
-### Passo a passo para gerar e encaminhar o Termo
+## Passo a passo para gerar e encaminhar o Termo
 
 1. **Selecione “Gerar Termo de Acesso”:** O sistema baixará o documento para o seu dispositivo.
 2. **Providencie a assinatura:** A autoridade máxima do órgão (ou representante legal, em caso de substituição) deve assinar. A assinatura pode ser física ou digital.
