@@ -12,16 +12,16 @@
 !!! note "Quem deve ler esta parte"
     **Nota:** Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
 
-# PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR
+<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
-<h2 id="secao-1">1. MEU ÓRGÃO PRECISA ADERIR AO SGA?</h2>
+<h1 id="secao-1" style="margin-top: 0;">1. MEU ÓRGÃO PRECISA ADERIR AO SGA?</h1>
 
 !!! note "RESPOSTA RÁPIDA"
     **Resposta rápida:** Órgãos e entidades federais integrantes do Sistema de Serviços Gerais (SISG) não precisam solicitar adesão pelo SGA. Os demais, de modo geral, precisam.
 
 ---
 
-### Situação do Órgão ou Entidade
+## Situação do Órgão ou Entidade
 
 | SITUAÇÃO DO ÓRGÃO OU ENTIDADE | PRECISA SOLICITAR ADESÃO? |
 | :--- | :--- |
@@ -36,7 +36,7 @@
 
 ---
 
-### O processo de adesão
+## O processo de adesão
 
 1. **Preencha o formulário:** Informe os dados do órgão ou entidade, do dirigente e do responsável.
 2. **Cadastre usuários e perfis:** Inclua pelo menos um usuário e defina o perfil de acesso.
