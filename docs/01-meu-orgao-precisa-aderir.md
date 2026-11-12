@@ -17,7 +17,7 @@
 <h1 id="secao-1" style="margin-top: 0;">1. MEU ÓRGÃO PRECISA ADERIR AO SGA?</h1>
 
 !!! note "RESPOSTA RÁPIDA"
-    **Resposta rápida:** Órgãos e entidades federais integrantes do Sistema de Serviços Gerais (SISG) não precisam solicitar adesão pelo SGA. Os demais, de modo geral, precisam.
+    Órgãos e entidades federais integrantes do Sistema de Serviços Gerais (SISG) não precisam solicitar adesão pelo SGA. Os demais, de modo geral, precisam.
 
 ---
 
