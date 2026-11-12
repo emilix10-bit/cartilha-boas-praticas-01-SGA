@@ -12,18 +12,18 @@
 !!! note "Quem deve ler esta parte"
     **Nota:** Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
 
-# PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR
+<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
-<h2 id="checklist-de-verificacao">CHECKLIST DE VERIFICAÇÃO</h2>
+<h1 id="checklist-de-verificacao" style="margin-top: 0;">CHECKLIST DE VERIFICAÇÃO</h1>
 
-### Antes de enviar, confira:
+## Antes de enviar, confira:
 
-* [x] Dados do órgão ou entidade preenchidos;
-* [x] Dirigente e responsável corretamente identificados;
-* [x] Pelo menos um usuário cadastrado;
-* [x] Perfil adequado à atividade que a pessoa vai realizar;
-* [x] Documentos obrigatórios anexados;
-* [x] Termo ou ofício assinado, em PDF de até 20 MB.
+- [x] Dados do órgão ou entidade preenchidos;
+- [x] Dirigente e responsável corretamente identificados;
+- [x] Pelo menos um usuário cadastrado;
+- [x] Perfil adequado à atividade que a pessoa vai realizar;
+- [x] Documentos obrigatórios anexados;
+- [x] Termo ou ofício assinado, em PDF de até 20 MB.
 
 ---
 
