@@ -9,9 +9,6 @@
   </button>
 </div>
 
-!!! note "Quem deve ler esta parte"
-    Atendentes e integrantes da Central de Atendimento (0800), para padronizar as orientações prestadas aos usuários.
-
 <p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 2: ROTEIRO DE APOIO PARA A CENTRAL DE ATENDIMENTO</p>
 
 <h1 id="secao-12" style="margin-top: 0;">12. ROTEIRO DE APOIO PARA A CENTRAL DE ATENDIMENTO</h1>
@@ -34,8 +31,6 @@ Material de consulta rápida para atendentes. Use esse roteiro para dar orienta�
 ---
 
 !!! tip "PADRÃO DE ATENDIMENTO"
-    **Dica:**
-
     * **Registre sempre:** Órgão, solicitação, usuário, etapa, mensagem exata, data e horário, e o que já foi tentado.
     * **Segurança:** Nunca solicite senha, código de autenticação ou captura de tela com dados sensíveis.
     * **Perfil:** Não defina o perfil pelo usuário: o órgão deve escolher o perfil de acordo com a atividade da pessoa.
