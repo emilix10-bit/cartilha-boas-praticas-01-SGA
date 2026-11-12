@@ -12,15 +12,15 @@
 !!! note "Quem deve ler esta parte"
     **Nota:** Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
 
-# PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR
+<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
-<h2 id="secao-9">9. POSSO ALTERAR USUÁRIOS, PERFIS E RESPONSÁVEIS?</h2>
+<h1 id="secao-9" style="margin-top: 0;">9. POSSO ALTERAR USUÁRIOS, PERFIS E RESPONSÁVEIS?</h1>
 
-**Assuntos relacionados:** [<a href="08-como-solicitar-novos-usuarios.md#secao-8">Como solicitar novos usuários?</a>](08-como-solicitar-novos-usuarios.md)
+**Assuntos relacionados:** [Como solicitar novos usuários?](08-como-solicitar-novos-usuarios.md#secao-8)
 
 ---
 
-### Dúvidas frequentes sobre alteração de cadastros
+## Dúvidas frequentes sobre alteração de cadastros
 
 | DÚVIDA | ORIENTAÇÃO |
 | :--- | :--- |
