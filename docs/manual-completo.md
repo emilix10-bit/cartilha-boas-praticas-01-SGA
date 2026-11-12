@@ -16,7 +16,10 @@
 ---
 
 !!! note "PÚBLICO-ALVO"
-    Usuários, Central de Atendimento e órgãos e entidades que acessam o Sistema Integrado de Administração de Serviços Gerais (SIASG)/Compras.gov.br, gestores e operadores de estados e municípios.
+    * Usuários
+    * Central de Atendimento
+    * Órgãos e entidades que acessam o Sistema Integrado de Administração de Serviços Gerais (SIASG)/Compras.gov.br
+    * Gestores e operadores de estados e municípios.
 
 ---
 
@@ -110,8 +113,6 @@ Tenha em mãos antes de iniciar qualquer ação:
 
 ### Parte 1: Guia Prático do Usuário e do Gestor
 
-!!! note "Quem deve ler esta parte"
-    Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
 
 1. [Seção 1 — Meu órgão precisa aderir ao SGA?](#secao-1)
 2. [Seção 2 — Quem é o responsável pelo SGA?](#secao-2)
@@ -132,17 +133,11 @@ Tenha em mãos antes de iniciar qualquer ação:
 
 ### Parte 2: Roteiro de Apoio para a Central de Atendimento
 
-!!! note "Quem deve ler esta parte"
-    Atendentes e integrantes da Central de Atendimento (0800), para padronizar as orientações prestadas aos usuários.
-
 12. [Seção 12 — Roteiro de apoio para a Central de Atendimento (0800)](#secao-12)
 
 ---
 
 <p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 25px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
-
-!!! note "Quem deve ler esta parte"
-    Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
 
 <h2 id="secao-1" style="margin-top: 0;">1. MEU ÓRGÃO PRECISA ADERIR AO SGA?</h2>
 
@@ -162,7 +157,7 @@ Tenha em mãos antes de iniciar qualquer ação:
 | **Serviços sociais autônomos** | De modo geral, sim, conforme as regras aplicáveis a esse tipo de entidade. |
 
 !!! warning "ATENÇÃO"
-    **Atenção:** Alguns acordos podem prever exceções. Antes de começar, confirme se seu órgão ou entidade precisa solicitar a adesão. Em caso de dúvida, consulte a Central de Atendimento.
+    Alguns acordos podem prever exceções. Antes de começar, confirme se seu órgão ou entidade precisa solicitar a adesão. Em caso de dúvida, consulte a Central de Atendimento.
 
 ---
 
@@ -196,7 +191,7 @@ Tenha em mãos antes de iniciar qualquer ação:
 ---
 
 !!! tip "DADOS DO RESPONSÁVEL"
-    **Dica:** No cadastro de novo responsável, o sistema solicita: nome, CPF, cargo, telefone, data de nascimento e e-mail. De preferência, informe um e-mail institucional que você consulte regularmente. As notificações do SGA serão enviadas para esse endereço.
+    No cadastro de novo responsável, o sistema solicita: nome, CPF, cargo, telefone, data de nascimento e e-mail. De preferência, informe um e-mail institucional que você consulte regularmente. As notificações do SGA serão enviadas para esse endereço.
 
 ---
 
@@ -205,7 +200,7 @@ Tenha em mãos antes de iniciar qualquer ação:
 **Assuntos relacionados:** [Qual perfil devo solicitar?](#secao-4)
 
 !!! warning "ATENÇÃO"
-    **Atenção:** É obrigatório cadastrar pelo menos um usuário antes de prosseguir.
+    É obrigatório cadastrar pelo menos um usuário antes de prosseguir.
 
 ---
 
@@ -253,13 +248,11 @@ Escolha o perfil conforme a atividade que será realizada:
 ---
 
 !!! note "DOCUMENTOS OBRIGATÓRIOS"
-    **Nota:**
-
     * **Pregoeiro ou Agente de Contratação:** Ato de nomeação específico.
     * **Homologador:** Ato de nomeação ou Termo de Posse.
 
 !!! tip "BOA PRÁTICA"
-    **Dica:** Solicite apenas o perfil necessário para a atividade da pessoa. Perfis em excesso aumentam o risco de uso indevido e dificultam a gestão do órgão. Os perfis que aparecem na tela podem mudar conforme a versão do sistema; em caso de divergência, prevalece o que aparece no SGA e o Manual vigente.
+    Solicite apenas o perfil necessário para a atividade da pessoa. Perfis em excesso aumentam o risco de uso indevido e dificultam a gestão do órgão. Os perfis que aparecem na tela podem mudar conforme a versão do sistema; em caso de divergência, prevalece o que aparece no SGA e o Manual vigente.
 
 ---
 
@@ -403,7 +396,7 @@ Procure a Central de Atendimento quando o problema não estiver relacionado às 
 ---
 
 !!! warning "SEGURANÇA"
-    **Atenção:** Nunca envie senha, código de autenticação ou credenciais de acesso — nem por e-mail, chamado, mensagem ou captura de tela. A equipe de atendimento nunca precisa desses dados.
+    Nunca envie senha, código de autenticação ou credenciais de acesso — nem por e-mail, chamado, mensagem ou captura de tela. A equipe de atendimento nunca precisa desses dados.
 
 ---
 
@@ -514,8 +507,6 @@ Material de consulta rápida para atendentes. Use esse roteiro para dar orienta�
 ---
 
 !!! tip "PADRÃO DE ATENDIMENTO"
-    **Dica:**
-
     * **Registre sempre:** Órgão, solicitação, usuário, etapa, mensagem exata, data e horário, e o que já foi tentado.
     * **Segurança:** Nunca solicite senha, código de autenticação ou captura de tela com dados sensíveis.
     * **Perfil:** Não defina o perfil pelo usuário: o órgão deve escolher o perfil de acordo com a atividade da pessoa.
