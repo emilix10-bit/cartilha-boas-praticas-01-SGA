@@ -12,11 +12,11 @@
 !!! note "Quem deve ler esta parte"
     **Nota:** Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
 
-# PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR
+<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
-<h2 id="secao-10">10. QUANDO PROCURAR A CENTRAL?</h2>
+<h1 id="secao-10" style="margin-top: 0;">10. QUANDO PROCURAR A CENTRAL?</h1>
 
-**Assuntos relacionados:** [<a href="11-erros-mais-comuns.md#secao-11">Quais são os erros mais comuns?</a>](11-erros-mais-comuns.md)
+**Assuntos relacionados:** [Quais são os erros mais comuns?](11-erros-mais-comuns.md#secao-11)
 
 ---
 
@@ -29,15 +29,15 @@ Procure a Central de Atendimento quando o problema não estiver relacionado às 
 
 ---
 
-### Antes de pedir ajuda, reúna estas informações:
+## Antes de pedir ajuda, reúna estas informações:
 
-* [x] Órgão ou entidade.
-* [x] Solicitação e usuário envolvidos.
-* [x] Etapa em que você estava e qual função do sistema estava usando quando o problema ocorreu.
-* [x] Mensagem ou comentário copiado exatamente como apresentado.
-* [x] Data e horário aproximados.
-* [x] O que você já tentou fazer.
-* [x] Qual atividade você não consegue realizar por causa do problema.
+- [x] Órgão ou entidade.
+- [x] Solicitação e usuário envolvidos.
+- [x] Etapa em que você estava e qual função do sistema estava usando quando o problema ocorreu.
+- [x] Mensagem ou comentário copiado exatamente como apresentado.
+- [x] Data e horário aproximados.
+- [x] O que você já tentou fazer.
+- [x] Qual atividade você não consegue realizar por causa do problema.
 
 ---
 
