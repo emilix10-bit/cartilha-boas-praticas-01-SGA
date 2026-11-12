@@ -35,7 +35,7 @@
 ---
 
 !!! note "MENSAGEM ESPERADA"
-    **Nota:** Depois que você enviar a correção, o sistema mostrará a situação “Termo e usuário SIASG corrigidos”.
+    Depois que você enviar a correção, o sistema mostrará a situação “Termo e usuário SIASG corrigidos”.
 
 <br>
 <div style="text-align: right; margin: 10px 0;">
