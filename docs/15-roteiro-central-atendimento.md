@@ -35,6 +35,7 @@ Material de consulta rápida para atendentes. Use esse roteiro para dar orienta�
 
 !!! tip "PADRÃO DE ATENDIMENTO"
     **Dica:**
+
     * **Registre sempre:** Órgão, solicitação, usuário, etapa, mensagem exata, data e horário, e o que já foi tentado.
     * **Segurança:** Nunca solicite senha, código de autenticação ou captura de tela com dados sensíveis.
     * **Perfil:** Não defina o perfil pelo usuário: o órgão deve escolher o perfil de acordo com a atividade da pessoa.
