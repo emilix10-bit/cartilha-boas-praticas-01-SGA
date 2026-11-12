@@ -12,23 +12,23 @@
 !!! note "Quem deve ler esta parte"
     **Nota:** Atendentes e integrantes da Central de Atendimento (0800), para padronizar as orientações prestadas aos usuários.
 
-# PARTE 2: ROTEIRO DE APOIO PARA A CENTRAL DE ATENDIMENTO
+<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 2: ROTEIRO DE APOIO PARA A CENTRAL DE ATENDIMENTO</p>
 
-<h2 id="secao-12">12. ROTEIRO DE APOIO PARA A CENTRAL DE ATENDIMENTO</h2>
+<h1 id="secao-12" style="margin-top: 0;">12. ROTEIRO DE APOIO PARA A CENTRAL DE ATENDIMENTO</h1>
 
 Material de consulta rápida para atendentes. Use esse roteiro para dar orientações claras e seguir o mesmo padrão de atendimento. A análise da solicitação cabe ao administrador do SGA.
 
 ---
 
-### Tabela de Orientação ao Atendente
+## Tabela de Orientação ao Atendente
 
 | RELATO DO USUÁRIO | O QUE PERGUNTAR | ORIENTAÇÃO |
 | :--- | :--- | :--- |
-| **“Não sei se meu órgão precisa aderir.”** | O órgão integra o SISG? É estadual, municipal ou privado? | Orientar conforme a [<a href="01-meu-orgao-precisa-aderir.md#secao-1">seção 1</a>](01-meu-orgao-precisa-aderir.md); se houver exceção por acordo, encaminhar para confirmação. |
-| **“Minha solicitação voltou.”** | Há comentário do administrador? Qual é o status? | Orientar a corrigir a solicitação existente ([<a href="06-solicitacao-voltou-como-corrigir.md#secao-6">seção 6</a>](06-solicitacao-voltou-como-corrigir.md)). Não abrir nova. |
-| **“Não encontro o Termo.”** | A solicitação foi enviada? Há pendência? | Verificar envio, status e comentários ([<a href="05-como-gerar-e-encaminhar-termo.md#secao-5">seção 5</a>](05-como-gerar-e-encaminhar-termo.md)). |
-| **“Qual perfil eu peço?”** | Qual atividade a pessoa vai exercer? | Apresentar a tabela de perfis ([<a href="04-qual-perfil-devo-solicitar.md#secao-4">seção 4</a>](04-qual-perfil-devo-solicitar.md)) e os documentos obrigatórios. |
-| **“O status não muda.”** | Qual é o status e desde quando? | Explicar o significado e quem age ([<a href="07-o-que-significa-o-status.md#secao-7">seção 7</a>](07-o-que-significa-o-status.md)). Se a orientação não resolver, registrar e encaminhar. |
+| **“Não sei se meu órgão precisa aderir.”** | O órgão integra o SISG? É estadual, municipal ou privado? | Orientar conforme a [seção 1](01-meu-orgao-precisa-aderir.md#secao-1); se houver exceção por acordo, encaminhar para confirmação. |
+| **“Minha solicitação voltou.”** | Há comentário do administrador? Qual é o status? | Orientar a corrigir a solicitação existente ([seção 6](06-solicitacao-voltou-como-corrigir.md#secao-6)). Não abrir nova. |
+| **“Não encontro o Termo.”** | A solicitação foi enviada? Há pendência? | Verificar envio, status e comentários ([seção 5](05-como-gerar-e-encaminhar-termo.md#secao-5)). |
+| **“Qual perfil eu peço?”** | Qual atividade a pessoa vai exercer? | Apresentar a tabela de perfis ([seção 4](04-qual-perfil-devo-solicitar.md#secao-4)) e os documentos obrigatórios. |
+| **“O status não muda.”** | Qual é o status e desde quando? | Explicar o significado e quem age ([seção 7](07-o-que-significa-o-status.md#secao-7)). Se a orientação não resolver, registrar e encaminhar. |
 | **“Perdi o acesso ao SGA.”** | A conta Gov.br está ativa? Há outro responsável cadastrado? | Orientar a verificar a conta Gov.br e acionar outro responsável. Se o problema continuar, registre o caso. |
 
 ---
