@@ -34,7 +34,7 @@
 ---
 
 !!! note "NOTIFICAÇÕES"
-    **Nota:** O responsável recebe notificações sobre o andamento e as pendências no e-mail informado no cadastro. Confira também a pasta de spam, onde ficam as mensagens que o e-mail identifica como indesejadas.
+    O responsável recebe notificações sobre o andamento e as pendências no e-mail informado no cadastro. Confira também a pasta de spam, onde ficam as mensagens que o e-mail identifica como indesejadas.
 
 <br>
 <div style="text-align: right; margin: 10px 0;">
