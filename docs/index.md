@@ -113,20 +113,20 @@ Tenha em mãos antes de iniciar qualquer ação:
 !!! note "Quem deve ler esta parte"
     **Nota:** Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
 
-1. [<a href="01-meu-orgao-precisa-aderir.md#secao-1">Seção 1 — Meu órgão precisa aderir ao SGA?</a>](01-meu-orgao-precisa-aderir.md)
-2. [<a href="02-quem-e-o-responsavel.md#secao-2">Seção 2 — Quem é o responsável pelo SGA?</a>](02-quem-e-o-responsavel.md)
-3. [<a href="03-como-cadastrar-usuario.md#secao-3">Seção 3 — Como cadastrar um usuário?</a>](03-como-cadastrar-usuario.md)
-4. [<a href="04-qual-perfil-devo-solicitar.md#secao-4">Seção 4 — Qual perfil devo solicitar?</a>](04-qual-perfil-devo-solicitar.md)
-5. [<a href="05-como-gerar-e-encaminhar-termo.md#secao-5">Seção 5 — Como gerar e encaminhar o termo?</a>](05-como-gerar-e-encaminhar-termo.md)
-6. [<a href="06-solicitacao-voltou-como-corrigir.md#secao-6">Seção 6 — Minha solicitação voltou. Como corrigir?</a>](06-solicitacao-voltou-como-corrigir.md)
-7. [<a href="07-o-que-significa-o-status.md#secao-7">Seção 7 — O que significa o status?</a>](07-o-que-significa-o-status.md)
-8. [<a href="08-como-solicitar-novos-usuarios.md#secao-8">Seção 8 — Como solicitar novos usuários?</a>](08-como-solicitar-novos-usuarios.md)
-9. [<a href="09-alterar-usuarios-perfis-responsaveis.md#secao-9">Seção 9 — Posso alterar usuários, perfis e responsáveis?</a>](09-alterar-usuarios-perfis-responsaveis.md)
-10. [<a href="10-quando-procurar-a-central.md#secao-10">Seção 10 — Quando procurar a Central?</a>](10-quando-procurar-a-central.md)
-11. [<a href="11-erros-mais-comuns.md#secao-11">Seção 11 — Erros mais comuns e como evitá-los</a>](11-erros-mais-comuns.md)
-* [<a href="12-perguntas-rapidas.md#perguntas-rapidas">Perguntas Rápidas</a>](12-perguntas-rapidas.md)
-* [<a href="13-checklist-de-verificacao.md#checklist-de-verificacao">Checklist de Verificação</a>](13-checklist-de-verificacao.md)
-* [<a href="14-glossario-e-referencias.md#glossario">Glossário e Referências</a>](14-glossario-e-referencias.md)
+1. [Seção 1 — Meu órgão precisa aderir ao SGA?](01-meu-orgao-precisa-aderir.md)
+2. [Seção 2 — Quem é o responsável pelo SGA?](02-quem-e-o-responsavel.md)
+3. [Seção 3 — Como cadastrar um usuário?](03-como-cadastrar-usuario.md)
+4. [Seção 4 — Qual perfil devo solicitar?](04-qual-perfil-devo-solicitar.md)
+5. [Seção 5 — Como gerar e encaminhar o termo?](05-como-gerar-e-encaminhar-termo.md)
+6. [Seção 6 — Minha solicitação voltou. Como corrigir?](06-solicitacao-voltou-como-corrigir.md)
+7. [Seção 7 — O que significa o status?](07-o-que-significa-o-status.md)
+8. [Seção 8 — Como solicitar novos usuários?](08-como-solicitar-novos-usuarios.md)
+9. [Seção 9 — Posso alterar usuários, perfis e responsáveis?](09-alterar-usuarios-perfis-responsaveis.md)
+10. [Seção 10 — Quando procurar a Central?](10-quando-procurar-a-central.md)
+11. [Seção 11 — Erros mais comuns e como evitá-los](11-erros-mais-comuns.md)
+* [Perguntas Rápidas](12-perguntas-rapidas.md)
+* [Checklist de Verificação](13-checklist-de-verificacao.md)
+* [Glossário e Referências](14-glossario-e-referencias.md)
 
 ---
 
@@ -135,7 +135,7 @@ Tenha em mãos antes de iniciar qualquer ação:
 !!! note "Quem deve ler esta parte"
     **Nota:** Atendentes e integrantes da Central de Atendimento (0800), para padronizar as orientações prestadas aos usuários.
 
-12. [<a href="15-roteiro-central-atendimento.md#secao-12">Seção 12 — Roteiro de apoio para a Central de Atendimento (0800)</a>](15-roteiro-central-atendimento.md)
+12. [Seção 12 — Roteiro de apoio para a Central de Atendimento (0800)](15-roteiro-central-atendimento.md)
 
 ---
 
