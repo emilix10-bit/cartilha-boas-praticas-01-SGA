@@ -9,9 +9,6 @@
   </button>
 </div>
 
-!!! note "Quem deve ler esta parte"
-    Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
-
 <p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
 <h1 id="secao-10" style="margin-top: 0;">10. QUANDO PROCURAR A CENTRAL?</h1>
@@ -23,7 +20,7 @@
 Procure a Central de Atendimento quando o problema não estiver relacionado às pendências apresentadas pelo SGA ou quando a orientação do próprio sistema não resolver a situação.
 
 !!! note "CANAL DA CENTRAL DE ATENDIMENTO"
-    **Nota:** **0800 978 9001**  
+    **0800 978 9001**  
     Selecione a **opção 6 – Outros sistemas** e, depois, a **subopção 1 – SGA**.  
     *Para problemas de acesso à conta Gov.br, procure o suporte da própria conta no portal Gov.br.*
 
