@@ -12,9 +12,9 @@
 !!! note "Quem deve ler esta parte"
     **Nota:** Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
 
-# PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR
+<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
-<h2 id="secao-2">2. QUEM É O RESPONSÁVEL PELO SGA?</h2>
+<h1 id="secao-2" style="margin-top: 0;">2. QUEM É O RESPONSÁVEL PELO SGA?</h1>
 
 | DÚVIDA | ORIENTAÇÃO |
 | :--- | :--- |
