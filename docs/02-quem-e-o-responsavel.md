@@ -9,8 +9,6 @@
   </button>
 </div>
 
-!!! note "Quem deve ler esta parte"
-    Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
 
 <p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
@@ -26,7 +24,7 @@
 ---
 
 !!! tip "DADOS DO RESPONSÁVEL"
-    **Dica:** No cadastro de novo responsável, o sistema solicita: nome, CPF, cargo, telefone, data de nascimento e e-mail. De preferência, informe um e-mail institucional que você consulte regularmente. As notificações do SGA serão enviadas para esse endereço.
+    No cadastro de novo responsável, o sistema solicita: nome, CPF, cargo, telefone, data de nascimento e e-mail. De preferência, informe um e-mail institucional que você consulte regularmente. As notificações do SGA serão enviadas para esse endereço.
 
 <br>
 <div style="text-align: right; margin: 10px 0;">
