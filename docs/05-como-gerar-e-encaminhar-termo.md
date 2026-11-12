@@ -38,7 +38,7 @@
 ---
 
 !!! note "NÃO SABE SE A SOLICITAÇÃO FOI ENVIADA?"
-    **Nota:** Consulte a situação da solicitação no SGA e verifique se há comentários ou pendências.
+    Consulte a situação da solicitação no SGA e verifique se há comentários ou pendências.
 
 <br>
 <div style="text-align: right; margin: 10px 0;">
