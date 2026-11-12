@@ -12,15 +12,15 @@
 !!! note "Quem deve ler esta parte"
     **Nota:** Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
 
-# PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR
+<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
-<h2 id="secao-8">8. COMO SOLICITAR NOVOS USUÁRIOS?</h2>
+<h1 id="secao-8" style="margin-top: 0;">8. COMO SOLICITAR NOVOS USUÁRIOS?</h1>
 
-**Assuntos relacionados:** [<a href="09-alterar-usuarios-perfis-responsaveis.md#secao-9">Posso alterar usuários, perfis e responsáveis?</a>](09-alterar-usuarios-perfis-responsaveis.md)
+**Assuntos relacionados:** [Posso alterar usuários, perfis e responsáveis?](09-alterar-usuarios-perfis-responsaveis.md#secao-9)
 
 ---
 
-### Passo a passo para solicitar novos usuários
+## Passo a passo para solicitar novos usuários
 
 1. **Selecione “Solicitar novos usuários”:** A opção fica disponível depois que o processo do Termo de Acesso é concluído.
 2. **Cadastre os usuários:** Preencha os campos e selecione os perfis.
