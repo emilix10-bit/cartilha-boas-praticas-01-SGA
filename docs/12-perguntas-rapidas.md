@@ -12,18 +12,18 @@
 !!! note "Quem deve ler esta parte"
     **Nota:** Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
 
-# PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR
+<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
-<h2 id="perguntas-rapidas">PERGUNTAS RÁPIDAS</h2>
+<h1 id="perguntas-rapidas" style="margin-top: 0;">PERGUNTAS RÁPIDAS</h1>
 
 | PERGUNTA | RESPOSTA |
 | :--- | :--- |
 | **A conta Gov.br é obrigatória?** | Sim. O responsável precisa de conta ativa para acessar e acompanhar solicitações. |
 | **Preciso anexar os documentos para continuar?** | Sim, quando o documento for obrigatório para aquela etapa ou perfil. Confira os documentos exigidos antes de avançar. |
 | **Posso cadastrar mais de um responsável?** | Sim. |
-| **Minha solicitação voltou. Devo abrir outra?** | Não. Corrija a solicitação existente e reencaminhe para nova análise (veja a [<a href="06-solicitacao-voltou-como-corrigir.md#secao-6">seção 6</a>](06-solicitacao-voltou-como-corrigir.md)). |
+| **Minha solicitação voltou. Devo abrir outra?** | Não. Corrija a solicitação existente e reencaminhe para nova análise (veja a [seção 6](06-solicitacao-voltou-como-corrigir.md#secao-6)). |
 | **O sistema envia e-mail?** | Sim. O responsável recebe notificações no e-mail cadastrado. |
-| **Posso alterar perfis depois?** | Sim, observando os documentos exigidos (veja a [<a href="09-alterar-usuarios-perfis-responsaveis.md#secao-9">seção 9</a>](09-alterar-usuarios-perfis-responsaveis.md)). |
+| **Posso alterar perfis depois?** | Sim, observando os documentos exigidos (veja a [seção 9](09-alterar-usuarios-perfis-responsaveis.md#secao-9)). |
 | **Devo enviar minha senha ao atendimento?** | Não. Nunca. |
 
 <br>
