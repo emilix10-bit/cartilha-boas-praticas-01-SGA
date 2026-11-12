@@ -147,7 +147,7 @@ Tenha em mãos antes de iniciar qualquer ação:
 <h2 id="secao-1" style="margin-top: 0;">1. MEU ÓRGÃO PRECISA ADERIR AO SGA?</h2>
 
 !!! note "RESPOSTA RÁPIDA"
-    **Resposta rápida:** Órgãos e entidades federais integrantes do Sistema de Serviços Gerais (SISG) não precisam solicitar adesão pelo SGA. Os demais, de modo geral, precisam.
+    Órgãos e entidades federais integrantes do Sistema de Serviços Gerais (SISG) não precisam solicitar adesão pelo SGA. Os demais, de modo geral, precisam.
 
 ---
 
@@ -296,7 +296,7 @@ Escolha o perfil conforme a atividade que será realizada:
 **Assuntos relacionados:** [O que significa a situação apresentada?](#secao-7) | [Quando devo procurar a Central?](#secao-10)
 
 !!! note "RESPOSTA RÁPIDA"
-    **Resposta rápida:** Não abra outra solicitação. Corrija a solicitação que já existe e envie novamente.
+    Não abra outra solicitação. Corrija a solicitação que já existe e envie novamente.
 
 ---
 
