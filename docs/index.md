@@ -16,7 +16,10 @@
 ---
 
 !!! note "PÚBLICO-ALVO"
-    **Nota:** Usuários, Central de Atendimento e órgãos e entidades que acessam o Sistema Integrado de Administração de Serviços Gerais (SIASG)/Compras.gov.br, gestores e operadores de estados e municípios.
+    * Usuários
+    * Central de Atendimento 
+    * Órgãos e entidades que acessam o Sistema Integrado de Administração de Serviços Gerais (SIASG)/Compras.gov.br
+    * Gestores e operadores de estados e municípios.
 
 ---
 
