@@ -12,15 +12,15 @@
 !!! note "Quem deve ler esta parte"
     **Nota:** Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
 
-# PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR
+<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
-<h2 id="secao-4">4. QUAL PERFIL DEVO SOLICITAR?</h2>
+<h1 id="secao-4" style="margin-top: 0;">4. QUAL PERFIL DEVO SOLICITAR?</h1>
 
-**Assuntos relacionados:** [<a href="03-como-cadastrar-usuario.md#secao-3">Como cadastrar um usuário?</a>](03-como-cadastrar-usuario.md)
+**Assuntos relacionados:** [Como cadastrar um usuário?](03-como-cadastrar-usuario.md#secao-3)
 
 ---
 
-### Perfil por Atividade
+## Perfil por Atividade
 
 Escolha o perfil conforme a atividade que será realizada:
 
