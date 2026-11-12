@@ -12,18 +12,18 @@
 !!! note "Quem deve ler esta parte"
     **Nota:** Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
 
-# PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR
+<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
-<h2 id="secao-6">6. MINHA SOLICITAÇÃO VOLTOU. COMO CORRIGIR?</h2>
+<h1 id="secao-6" style="margin-top: 0;">6. MINHA SOLICITAÇÃO VOLTOU. COMO CORRIGIR?</h1>
 
-**Assuntos relacionados:** [<a href="07-o-que-significa-o-status.md#secao-7">O que significa a situação apresentada?</a>](07-o-que-significa-o-status.md) \| [<a href="10-quando-procurar-a-central.md#secao-10">Quando devo procurar a Central?</a>](10-quando-procurar-a-central.md)
+**Assuntos relacionados:** [O que significa a situação apresentada?](07-o-que-significa-o-status.md#secao-7) | [Quando devo procurar a Central?](10-quando-procurar-a-central.md#secao-10)
 
 !!! note "RESPOSTA RÁPIDA"
     **Resposta rápida:** Não abra outra solicitação. Corrija a solicitação que já existe e envie novamente.
 
 ---
 
-### Passo a passo para correção
+## Passo a passo para correção
 
 1. **Abra o comentário:** O comentário do administrador informa o que você precisa corrigir.
 2. **Edite ou exclua o registro:** No campo “Ações”, edite o registro indicado no comentário. Exclua o registro apenas se for necessário para corrigir o problema.
