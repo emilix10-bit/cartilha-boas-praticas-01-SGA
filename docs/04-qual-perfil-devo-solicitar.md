@@ -41,7 +41,6 @@ Escolha o perfil conforme a atividade que será realizada:
 ---
 
 !!! note "DOCUMENTOS OBRIGATÓRIOS"
-    **Nota:**
     * **Pregoeiro ou Agente de Contratação:** Ato de nomeação específico.
     * **Homologador:** Ato de nomeação ou Termo de Posse.
 
