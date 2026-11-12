@@ -19,7 +19,7 @@
 **Assuntos relacionados:** [O que significa a situação apresentada?](07-o-que-significa-o-status.md#secao-7) | [Quando devo procurar a Central?](10-quando-procurar-a-central.md#secao-10)
 
 !!! note "RESPOSTA RÁPIDA"
-    **Resposta rápida:** Não abra outra solicitação. Corrija a solicitação que já existe e envie novamente.
+    Não abra outra solicitação. Corrija a solicitação que já existe e envie novamente.
 
 ---
 
