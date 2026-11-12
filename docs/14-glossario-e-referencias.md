@@ -12,9 +12,9 @@
 !!! note "Quem deve ler esta parte"
     **Nota:** Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
 
-# PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR
+<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
-<h2 id="glossario">GLOSSÁRIO E REFERÊNCIAS</h2>
+<h1 id="glossario" style="margin-top: 0;">GLOSSÁRIO E REFERÊNCIAS</h1>
 
 | TERMO | SIGNIFICADO |
 | :--- | :--- |
@@ -30,24 +30,24 @@
 
 ---
 
-### Quando esta cartilha não for suficiente
+## Quando esta cartilha não for suficiente
 
 Consulte o Manual do SGA quando precisar de instruções mais detalhadas, explicações sobre os perfis, documentos exigidos ou outras telas do sistema.
 
-* **Página oficial do SGA:** gov.br/compras — Sistema de Gestão de Acesso ao SIASG
-* **Manuais do Portal de Compras:** gov.br/compras — Manuais
-* **Perguntas frequentes do SIASG:** gov.br/compras — Perguntas frequentes
-* **Guia de Atendimento 01 (Central de Atendimento):** material de apoio ao atendente.
+- **Página oficial do SGA:** gov.br/compras — Sistema de Gestão de Acesso ao SIASG
+- **Manuais do Portal de Compras:** gov.br/compras — Manuais
+- **Perguntas frequentes do SIASG:** gov.br/compras — Perguntas frequentes
+- **Guia de Atendimento 01 (Central de Atendimento):** material de apoio ao atendente.
 
 ---
 
-### Referências
+## Referências
 
-* BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. **Manual do Sistema de Gestão de Acesso (SGA)**, versão 1.0. Brasília, DF: Portal de Compras do Governo Federal, 2026. Disponível em: https://www.gov.br/compras/pt-br/acesso-a-informacao/manuais.
-* BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. **Sistema de Gestão de Acesso ao SIASG (SGA)**. Brasília, DF: Portal de Compras do Governo Federal, [s.d.]. Disponível em: https://www.gov.br/compras/pt-br/sistemas/sistema-de-gestao-de-acesso-ao-siasg-sga.
-* BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. **Perguntas frequentes: SIASG**. Brasília, DF: Portal de Compras do Governo Federal, [s.d.]. Disponível em: https://www.gov.br/compras/pt-br/acesso-a-informacao/perguntas-frequentes/siasg.
-* BRASIL. **Portaria nº 355, de 9 de agosto de 2019**. Institui o Sistema de Gestão de Acesso (SGA) ao SIASG para os públicos abrangidos pela norma.
-* BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. **Central de Atendimento**. Brasília, DF: MGI.
+- BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. **Manual do Sistema de Gestão de Acesso (SGA)**, versão 1.0. Brasília, DF: Portal de Compras do Governo Federal, 2026. Disponível em: <https://www.gov.br/compras/pt-br/acesso-a-informacao/manuais>.
+- BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. **Sistema de Gestão de Acesso ao SIASG (SGA)**. Brasília, DF: Portal de Compras do Governo Federal, [s.d.]. Disponível em: <https://www.gov.br/compras/pt-br/sistemas/sistema-de-gestao-de-acesso-ao-siasg-sga>.
+- BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. **Perguntas frequentes: SIASG**. Brasília, DF: Portal de Compras do Governo Federal, [s.d.]. Disponível em: <https://www.gov.br/compras/pt-br/acesso-a-informacao/perguntas-frequentes/siasg>.
+- BRASIL. **Portaria nº 355, de 9 de agosto de 2019**. Institui o Sistema de Gestão de Acesso (SGA) ao SIASG para os públicos abrangidos pela norma.
+- BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. **Central de Atendimento**. Brasília, DF: MGI.
 
 <br>
 <div style="text-align: right; margin: 10px 0;">
