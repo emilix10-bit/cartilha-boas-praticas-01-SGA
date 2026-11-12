@@ -12,22 +12,22 @@
 !!! note "Quem deve ler esta parte"
     **Nota:** Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
 
-# PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR
+<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
-<h2 id="secao-3">3. COMO CADASTRAR UM USUÁRIO?</h2>
+<h1 id="secao-3" style="margin-top: 0;">3. COMO CADASTRAR UM USUÁRIO?</h1>
 
-**Assuntos relacionados:** [<a href="04-qual-perfil-devo-solicitar.md#secao-4">Qual perfil devo solicitar?</a>](04-qual-perfil-devo-solicitar.md)
+**Assuntos relacionados:** [Qual perfil devo solicitar?](04-qual-perfil-devo-solicitar.md#secao-4)
 
 !!! warning "ATENÇÃO"
     **Atenção:** É obrigatório cadastrar pelo menos um usuário antes de prosseguir.
 
 ---
 
-### Passo a passo para cadastro
+## Passo a passo para cadastro
 
 1. **Preencha os dados:** Informe nome, CPF, telefone, matrícula e e-mail.
 2. **Selecione o perfil:** Escolha o perfil de acordo com a atividade que a pessoa vai realizar.
-3. **Anexe o documento, quando exigido:** Perfis como Pregoeiro/Agente de Contratação e Homologador exigem documentos específicos (veja a [<a href="04-qual-perfil-devo-solicitar.md#secao-4">seção 4</a>](04-qual-perfil-devo-solicitar.md)).
+3. **Anexe o documento, quando exigido:** Perfis como Pregoeiro/Agente de Contratação e Homologador exigem documentos específicos (veja a [seção 4](04-qual-perfil-devo-solicitar.md#secao-4)).
 4. **Salve:** Salve o cadastro. A tela continuará aberta para incluir outros usuários, se necessário.
 5. **Avance:** Selecione “Avançar” quando terminar de cadastrar todos os usuários.
 
