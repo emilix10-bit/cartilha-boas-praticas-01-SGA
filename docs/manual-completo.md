@@ -518,3 +518,7 @@ Material de consulta rápida para atendentes. Use esse roteiro para dar orienta�
     * **Segurança:** Nunca solicite senha, código de autenticação ou captura de tela com dados sensíveis.
     * **Perfil:** Não defina o perfil pelo usuário: o órgão deve escolher o perfil de acordo com a atividade da pessoa.
 
+  <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2); margin-left: 10px;">
+    🖨️ Imprimir ou baixar esta página
+  </button>
+</div>
