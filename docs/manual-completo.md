@@ -43,9 +43,9 @@ Segundo a página oficial do SGA, o processo que antes levava cerca de 1 a 2 sem
 
 Conheça os principais papéis e suas funções:
 
-* **Responsável do órgão:** Cadastra as informações e acompanha as solicitações.
-* **Usuário:** Recebe os perfis necessários às atividades que realizará.
-* **Administrador do SGA:** Analisa a solicitação e os documentos.
+- **Responsável do órgão:** Cadastra as informações e acompanha as solicitações.
+- **Usuário:** Recebe os perfis necessários às atividades que realizará.
+- **Administrador do SGA:** Analisa a solicitação e os documentos.
 
 ---
 
@@ -89,7 +89,7 @@ Antes de entrar nos detalhes, veja o caminho completo. Cada etapa corresponde a 
   <div class="fluxo-etapa fluxo-verde"><strong>Finalizado</strong><span>novos pedidos</span></div>
 </div>
 
-Se o administrador encontrar algo que precisa ser corrigido, ele devolve a solicitação ao responsável. Após a correção, o processo continua a partir da etapa 3. Veja a <a href="06-solicitacao-voltou-como-corrigir.md#secao-6">seção 6: MINHA SOLICITAÇÃO VOLTOU. COMO CORRIGIR?</a>
+Se o administrador encontrar algo que precisa ser corrigido, ele devolve a solicitação ao responsável. Após a correção, o processo continua a partir da etapa 3. Veja a [seção 6: MINHA SOLICITAÇÃO VOLTOU. COMO CORRIGIR?](#secao-6)
 
 ---
 
@@ -97,12 +97,12 @@ Se o administrador encontrar algo que precisa ser corrigido, ele devolve a solic
 
 Tenha em mãos antes de iniciar qualquer ação:
 
-* [x] Dados do órgão ou entidade e do dirigente máximo (ou representante legal).
-* [x] Dados do responsável: nome, CPF, cargo, telefone, data de nascimento e e-mail.
-* [x] Conta Gov.br ativa do responsável (usada para entrar no SGA).
-* [x] Dados de cada usuário: nome, CPF, telefone, matrícula e e-mail.
-* [x] Atos de nomeação (ou Termo de Posse) para os perfis que exigem documento.
-* [x] Meio de assinatura (física ou digital) pela autoridade máxima. O arquivo anexado deve estar em PDF, com até 20 MB.
+- [x] Dados do órgão ou entidade e do dirigente máximo (ou representante legal).
+- [x] Dados do responsável: nome, CPF, cargo, telefone, data de nascimento e e-mail.
+- [x] Conta Gov.br ativa do responsável (usada para entrar no SGA).
+- [x] Dados de cada usuário: nome, CPF, telefone, matrícula e e-mail.
+- [x] Atos de nomeação (ou Termo de Posse) para os perfis que exigem documento.
+- [x] Meio de assinatura (física ou digital) pela autoridade máxima. O arquivo anexado deve estar em PDF, com até 20 MB.
 
 ---
 
@@ -113,20 +113,20 @@ Tenha em mãos antes de iniciar qualquer ação:
 !!! note "Quem deve ler esta parte"
     **Nota:** Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
 
-1. [<a href="01-meu-orgao-precisa-aderir.md#secao-1">Seção 1 — Meu órgão precisa aderir ao SGA?</a>](01-meu-orgao-precisa-aderir.md)
-2. [<a href="02-quem-e-o-responsavel.md#secao-2">Seção 2 — Quem é o responsável pelo SGA?</a>](02-quem-e-o-responsavel.md)
-3. [<a href="03-como-cadastrar-usuario.md#secao-3">Seção 3 — Como cadastrar um usuário?</a>](03-como-cadastrar-usuario.md)
-4. [<a href="04-qual-perfil-devo-solicitar.md#secao-4">Seção 4 — Qual perfil devo solicitar?</a>](04-qual-perfil-devo-solicitar.md)
-5. [<a href="05-como-gerar-e-encaminhar-termo.md#secao-5">Seção 5 — Como gerar e encaminhar o termo?</a>](05-como-gerar-e-encaminhar-termo.md)
-6. [<a href="06-solicitacao-voltou-como-corrigir.md#secao-6">Seção 6 — Minha solicitação voltou. Como corrigir?</a>](06-solicitacao-voltou-como-corrigir.md)
-7. [<a href="07-o-que-significa-o-status.md#secao-7">Seção 7 — O que significa o status?</a>](07-o-que-significa-o-status.md)
-8. [<a href="08-como-solicitar-novos-usuarios.md#secao-8">Seção 8 — Como solicitar novos usuários?</a>](08-como-solicitar-novos-usuarios.md)
-9. [<a href="09-alterar-usuarios-perfis-responsaveis.md#secao-9">Seção 9 — Posso alterar usuários, perfis e responsáveis?</a>](09-alterar-usuarios-perfis-responsaveis.md)
-10. [<a href="10-quando-procurar-a-central.md#secao-10">Seção 10 — Quando procurar a Central?</a>](10-quando-procurar-a-central.md)
-11. [<a href="11-erros-mais-comuns.md#secao-11">Seção 11 — Erros mais comuns e como evitá-los</a>](11-erros-mais-comuns.md)
-* [<a href="12-perguntas-rapidas.md#perguntas-rapidas">Perguntas Rápidas</a>](12-perguntas-rapidas.md)
-* [<a href="13-checklist-de-verificacao.md#checklist-de-verificacao">Checklist de Verificação</a>](13-checklist-de-verificacao.md)
-* [<a href="14-glossario-e-referencias.md#glossario">Glossário e Referências</a>](14-glossario-e-referencias.md)
+1. [Seção 1 — Meu órgão precisa aderir ao SGA?](#secao-1)
+2. [Seção 2 — Quem é o responsável pelo SGA?](#secao-2)
+3. [Seção 3 — Como cadastrar um usuário?](#secao-3)
+4. [Seção 4 — Qual perfil devo solicitar?](#secao-4)
+5. [Seção 5 — Como gerar e encaminhar o termo?](#secao-5)
+6. [Seção 6 — Minha solicitação voltou. Como corrigir?](#secao-6)
+7. [Seção 7 — O que significa o status?](#secao-7)
+8. [Seção 8 — Como solicitar novos usuários?](#secao-8)
+9. [Seção 9 — Posso alterar usuários, perfis e responsáveis?](#secao-9)
+10. [Seção 10 — Quando procurar a Central?](#secao-10)
+11. [Seção 11 — Erros mais comuns e como evitá-los](#secao-11)
+- [Perguntas Rápidas](#perguntas-rapidas)
+- [Checklist de Verificação](#checklist-de-verificacao)
+- [Glossário e Referências](#glossario)
 
 ---
 
@@ -135,16 +135,16 @@ Tenha em mãos antes de iniciar qualquer ação:
 !!! note "Quem deve ler esta parte"
     **Nota:** Atendentes e integrantes da Central de Atendimento (0800), para padronizar as orientações prestadas aos usuários.
 
-12. [<a href="15-roteiro-central-atendimento.md#secao-12">Seção 12 — Roteiro de apoio para a Central de Atendimento (0800)</a>](15-roteiro-central-atendimento.md)
+12. [Seção 12 — Roteiro de apoio para a Central de Atendimento (0800)](#secao-12)
 
 ---
 
-# PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR
+<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 25px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
 !!! note "Quem deve ler esta parte"
     **Nota:** Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
 
-<h2 id="secao-1">1. MEU ÓRGÃO PRECISA ADERIR AO SGA?</h2>
+<h2 id="secao-1" style="margin-top: 0;">1. MEU ÓRGÃO PRECISA ADERIR AO SGA?</h2>
 
 !!! note "RESPOSTA RÁPIDA"
     **Resposta rápida:** Órgãos e entidades federais integrantes do Sistema de Serviços Gerais (SISG) não precisam solicitar adesão pelo SGA. Os demais, de modo geral, precisam.
@@ -202,7 +202,7 @@ Tenha em mãos antes de iniciar qualquer ação:
 
 <h2 id="secao-3">3. COMO CADASTRAR UM USUÁRIO?</h2>
 
-**Assuntos relacionados:** [<a href="04-qual-perfil-devo-solicitar.md#secao-4">Qual perfil devo solicitar?</a>](04-qual-perfil-devo-solicitar.md)
+**Assuntos relacionados:** [Qual perfil devo solicitar?](#secao-4)
 
 !!! warning "ATENÇÃO"
     **Atenção:** É obrigatório cadastrar pelo menos um usuário antes de prosseguir.
@@ -213,7 +213,7 @@ Tenha em mãos antes de iniciar qualquer ação:
 
 1. **Preencha os dados:** Informe nome, CPF, telefone, matrícula e e-mail.
 2. **Selecione o perfil:** Escolha o perfil de acordo com a atividade que a pessoa vai realizar.
-3. **Anexe o documento, quando exigido:** Perfis como Pregoeiro/Agente de Contratação e Homologador exigem documentos específicos (veja a [<a href="04-qual-perfil-devo-solicitar.md#secao-4">seção 4</a>](04-qual-perfil-devo-solicitar.md)).
+3. **Anexe o documento, quando exigido:** Perfis como Pregoeiro/Agente de Contratação e Homologador exigem documentos específicos (veja a [seção 4](#secao-4)).
 4. **Salve:** Salve o cadastro. A tela continuará aberta para incluir outros usuários, se necessário.
 5. **Avance:** Selecione “Avançar” quando terminar de cadastrar todos os usuários.
 
@@ -228,7 +228,7 @@ Tenha em mãos antes de iniciar qualquer ação:
 
 <h2 id="secao-4">4. QUAL PERFIL DEVO SOLICITAR?</h2>
 
-**Assuntos relacionados:** [<a href="03-como-cadastrar-usuario.md#secao-3">Como cadastrar um usuário?</a>](03-como-cadastrar-usuario.md)
+**Assuntos relacionados:** [Como cadastrar um usuário?](#secao-3)
 
 ---
 
@@ -254,6 +254,7 @@ Escolha o perfil conforme a atividade que será realizada:
 
 !!! note "DOCUMENTOS OBRIGATÓRIOS"
     **Nota:**
+
     * **Pregoeiro ou Agente de Contratação:** Ato de nomeação específico.
     * **Homologador:** Ato de nomeação ou Termo de Posse.
 
@@ -264,7 +265,7 @@ Escolha o perfil conforme a atividade que será realizada:
 
 <h2 id="secao-5">5. COMO GERAR E ENCAMINHAR O TERMO?</h2>
 
-**Assuntos relacionados:** [<a href="06-solicitacao-voltou-como-corrigir.md#secao-6">Minha solicitação voltou. Como corrigir?</a>](06-solicitacao-voltou-como-corrigir.md) \| [<a href="07-o-que-significa-o-status.md#secao-7">O que significa a situação apresentada?</a>](07-o-que-significa-o-status.md)
+**Assuntos relacionados:** [Minha solicitação voltou. Como corrigir?](#secao-6) | [O que significa a situação apresentada?](#secao-7)
 
 ---
 
@@ -292,7 +293,7 @@ Escolha o perfil conforme a atividade que será realizada:
 
 <h2 id="secao-6">6. MINHA SOLICITAÇÃO VOLTOU. COMO CORRIGIR?</h2>
 
-**Assuntos relacionados:** [<a href="07-o-que-significa-o-status.md#secao-7">O que significa a situação apresentada?</a>](07-o-que-significa-o-status.md) \| [<a href="10-quando-procurar-a-central.md#secao-10">Quando devo procurar a Central?</a>](10-quando-procurar-a-central.md)
+**Assuntos relacionados:** [O que significa a situação apresentada?](#secao-7) | [Quando devo procurar a Central?](#secao-10)
 
 !!! note "RESPOSTA RÁPIDA"
     **Resposta rápida:** Não abra outra solicitação. Corrija a solicitação que já existe e envie novamente.
@@ -317,7 +318,7 @@ Escolha o perfil conforme a atividade que será realizada:
 
 <h2 id="secao-7">7. O QUE SIGNIFICA O STATUS?</h2>
 
-**Assuntos relacionados:** [<a href="06-solicitacao-voltou-como-corrigir.md#secao-6">Minha solicitação voltou. Como corrigir?</a>](06-solicitacao-voltou-como-corrigir.md) \| [<a href="10-quando-procurar-a-central.md#secao-10">Quando devo procurar a Central?</a>](10-quando-procurar-a-central.md)
+**Assuntos relacionados:** [Minha solicitação voltou. Como corrigir?](#secao-6) | [Quando devo procurar a Central?](#secao-10)
 
 ---
 
@@ -326,7 +327,7 @@ Escolha o perfil conforme a atividade que será realizada:
 | SITUAÇÃO | O QUE SIGNIFICA | QUEM AGE AGORA | O QUE VOCÊ DEVE FAZER |
 | :--- | :--- | :--- | :--- |
 | **Aguardando validação** | O administrador recebeu a solicitação e ainda precisa analisá-la. | Administrador MGI | Acompanhe pelo SGA e pelo e-mail cadastrado. |
-| **Revalidar termo e usuário** | Termo devolvido com pendências. | Responsável do órgão | Identifique a pendência, corrija e reenvie. Veja a [<a href="06-solicitacao-voltou-como-corrigir.md#secao-6">seção 6</a>](06-solicitacao-voltou-como-corrigir.md). |
+| **Revalidar termo e usuário** | Termo devolvido com pendências. | Responsável do órgão | Identifique a pendência, corrija e reenvie. Veja a [seção 6](#secao-6). |
 | **Termo e usuário SIASG corrigidos** | A correção foi enviada. Agora, o administrador precisa analisá-la novamente. | Administrador MGI | Acompanhe pelo SGA e pelo e-mail cadastrado. |
 | **Termo e usuário SIASG válidos** | Aguardando a criação da UASG. | Administrador MGI | Acompanhe pelo SGA e pelo e-mail cadastrado. |
 | **Aguardando habilitação do(s) usuário(s) SIASG** | UASG criada e aguardando ação do administrador. | Administrador MGI | Acompanhe pelo SGA e pelo e-mail cadastrado. |
@@ -341,7 +342,7 @@ Escolha o perfil conforme a atividade que será realizada:
 
 <h2 id="secao-8">8. COMO SOLICITAR NOVOS USUÁRIOS?</h2>
 
-**Assuntos relacionados:** [<a href="09-alterar-usuarios-perfis-responsaveis.md#secao-9">Posso alterar usuários, perfis e responsáveis?</a>](09-alterar-usuarios-perfis-responsaveis.md)
+**Assuntos relacionados:** [Posso alterar usuários, perfis e responsáveis?](#secao-9)
 
 ---
 
@@ -358,7 +359,7 @@ Escolha o perfil conforme a atividade que será realizada:
 
 <h2 id="secao-9">9. POSSO ALTERAR USUÁRIOS, PERFIS E RESPONSÁVEIS?</h2>
 
-**Assuntos relacionados:** [<a href="08-como-solicitar-novos-usuarios.md#secao-8">Como solicitar novos usuários?</a>](08-como-solicitar-novos-usuarios.md)
+**Assuntos relacionados:** [Como solicitar novos usuários?](#secao-8)
 
 ---
 
@@ -376,7 +377,7 @@ Escolha o perfil conforme a atividade que será realizada:
 
 <h2 id="secao-10">10. QUANDO PROCURAR A CENTRAL?</h2>
 
-**Assuntos relacionados:** [<a href="11-erros-mais-comuns.md#secao-11">Quais são os erros mais comuns?</a>](11-erros-mais-comuns.md)
+**Assuntos relacionados:** [Quais são os erros mais comuns?](#secao-11)
 
 ---
 
@@ -391,13 +392,13 @@ Procure a Central de Atendimento quando o problema não estiver relacionado às 
 
 ### Antes de pedir ajuda, reúna estas informações:
 
-* [x] Órgão ou entidade.
-* [x] Solicitação e usuário envolvidos.
-* [x] Etapa em que você estava e qual função do sistema estava usando quando o problema ocorreu.
-* [x] Mensagem ou comentário copiado exatamente como apresentado.
-* [x] Data e horário aproximados.
-* [x] O que você já tentou fazer.
-* [x] Qual atividade você não consegue realizar por causa do problema.
+- [x] Órgão ou entidade.
+- [x] Solicitação e usuário envolvidos.
+- [x] Etapa em que você estava e qual função do sistema estava usando quando o problema ocorreu.
+- [x] Mensagem ou comentário copiado exatamente como apresentado.
+- [x] Data e horário aproximados.
+- [x] O que você já tentou fazer.
+- [x] Qual atividade você não consegue realizar por causa do problema.
 
 ---
 
@@ -410,7 +411,7 @@ Procure a Central de Atendimento quando o problema não estiver relacionado às 
 
 | ERRO FREQUENTE | CONSEQUÊNCIA | COMO EVITAR |
 | :--- | :--- | :--- |
-| **Abrir nova solicitação quando a primeira foi devolvida** | Dois pedidos para o mesmo caso e trabalho repetido | Corrija e reencaminhe a solicitação existente ([<a href="06-solicitacao-voltou-como-corrigir.md#secao-6">seção 6</a>](06-solicitacao-voltou-como-corrigir.md)). |
+| **Abrir nova solicitação quando a primeira foi devolvida** | Dois pedidos para o mesmo caso e trabalho repetido | Corrija e reencaminhe a solicitação existente ([seção 6](#secao-6)). |
 | **Esquecer de avançar ou enviar após anexar o Termo** | Solicitação não chega à análise | Após anexar o Termo, selecione “Avançar” e confira o status. |
 | **Anexar o Termo sem assinatura da autoridade máxima** | Termo devolvido com pendência | Confirme assinatura e o formato PDF (até 20 MB) antes de anexar o Termo. |
 | **Escolher perfil sem o documento exigido** | Usuário devolvido para correção | Separe o ato de nomeação ou Termo de Posse antes de começar. |
@@ -426,9 +427,9 @@ Procure a Central de Atendimento quando o problema não estiver relacionado às 
 | **A conta Gov.br é obrigatória?** | Sim. O responsável precisa de conta ativa para acessar e acompanhar solicitações. |
 | **Preciso anexar os documentos para continuar?** | Sim, quando o documento for obrigatório para aquela etapa ou perfil. Confira os documentos exigidos antes de avançar. |
 | **Posso cadastrar mais de um responsável?** | Sim. |
-| **Minha solicitação voltou. Devo abrir outra?** | Não. Corrija a solicitação existente e reencaminhe para nova análise (veja a [<a href="06-solicitacao-voltou-como-corrigir.md#secao-6">seção 6</a>](06-solicitacao-voltou-como-corrigir.md)). |
+| **Minha solicitação voltou. Devo abrir outra?** | Não. Corrija a solicitação existente e reencaminhe para nova análise (veja a [seção 6](#secao-6)). |
 | **O sistema envia e-mail?** | Sim. O responsável recebe notificações no e-mail cadastrado. |
-| **Posso alterar perfis depois?** | Sim, observando os documentos exigidos (veja a [<a href="09-alterar-usuarios-perfis-responsaveis.md#secao-9">seção 9</a>](09-alterar-usuarios-perfis-responsaveis.md)). |
+| **Posso alterar perfis depois?** | Sim, observando os documentos exigidos (veja a [seção 9](#secao-9)). |
 | **Devo enviar minha senha ao atendimento?** | Não. Nunca. |
 
 ---
@@ -437,12 +438,12 @@ Procure a Central de Atendimento quando o problema não estiver relacionado às 
 
 ### Antes de enviar, confira:
 
-* [x] Dados do órgão ou entidade preenchidos;
-* [x] Dirigente e responsável corretamente identificados;
-* [x] Pelo menos um usuário cadastrado;
-* [x] Perfil adequado à atividade que a pessoa vai realizar;
-* [x] Documentos obrigatórios anexados;
-* [x] Termo ou ofício assinado, em PDF de até 20 MB.
+- [x] Dados do órgão ou entidade preenchidos;
+- [x] Dirigente e responsável corretamente identificados;
+- [x] Pelo menos um usuário cadastrado;
+- [x] Perfil adequado à atividade que a pessoa vai realizar;
+- [x] Documentos obrigatórios anexados;
+- [x] Termo ou ofício assinado, em PDF de até 20 MB.
 
 ---
 
@@ -471,29 +472,29 @@ Procure a Central de Atendimento quando o problema não estiver relacionado às 
 
 Consulte o Manual do SGA quando precisar de instruções mais detalhadas, explicações sobre os perfis, documentos exigidos ou outras telas do sistema.
 
-* **Página oficial do SGA:** gov.br/compras — Sistema de Gestão de Acesso ao SIASG
-* **Manuais do Portal de Compras:** gov.br/compras — Manuais
-* **Perguntas frequentes do SIASG:** gov.br/compras — Perguntas frequentes
-* **Guia de Atendimento 01 (Central de Atendimento):** material de apoio ao atendente.
+- **Página oficial do SGA:** gov.br/compras — Sistema de Gestão de Acesso ao SIASG
+- **Manuais do Portal de Compras:** gov.br/compras — Manuais
+- **Perguntas frequentes do SIASG:** gov.br/compras — Perguntas frequentes
+- **Guia de Atendimento 01 (Central de Atendimento):** material de apoio ao atendente.
 
 ---
 
 ### Referências
 
-* BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. **Manual do Sistema de Gestão de Acesso (SGA)**, versão 1.0. Brasília, DF: Portal de Compras do Governo Federal, 2026. Disponível em: https://www.gov.br/compras/pt-br/acesso-a-informacao/manuais.
-* BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. **Sistema de Gestão de Acesso ao SIASG (SGA)**. Brasília, DF: Portal de Compras do Governo Federal, [s.d.]. Disponível em: https://www.gov.br/compras/pt-br/sistemas/sistema-de-gestao-de-acesso-ao-siasg-sga.
-* BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. **Perguntas frequentes: SIASG**. Brasília, DF: Portal de Compras do Governo Federal, [s.d.]. Disponível em: https://www.gov.br/compras/pt-br/acesso-a-informacao/perguntas-frequentes/siasg.
-* BRASIL. **Portaria nº 355, de 9 de agosto de 2019**. Institui o Sistema de Gestão de Acesso (SGA) ao SIASG para os públicos abrangidos pela norma.
-* BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. **Central de Atendimento**. Brasília, DF: MGI.
+- BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. **Manual do Sistema de Gestão de Acesso (SGA)**, versão 1.0. Brasília, DF: Portal de Compras do Governo Federal, 2026. Disponível em: <https://www.gov.br/compras/pt-br/acesso-a-informacao/manuais>.
+- BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. **Sistema de Gestão de Acesso ao SIASG (SGA)**. Brasília, DF: Portal de Compras do Governo Federal, [s.d.]. Disponível em: <https://www.gov.br/compras/pt-br/sistemas/sistema-de-gestao-de-acesso-ao-siasg-sga>.
+- BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. **Perguntas frequentes: SIASG**. Brasília, DF: Portal de Compras do Governo Federal, [s.d.]. Disponível em: <https://www.gov.br/compras/pt-br/acesso-a-informacao/perguntas-frequentes/siasg>.
+- BRASIL. **Portaria nº 355, de 9 de agosto de 2019**. Institui o Sistema de Gestão de Acesso (SGA) ao SIASG para os públicos abrangidos pela norma.
+- BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. **Central de Atendimento**. Brasília, DF: MGI.
 
 ---
+
+<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 25px; margin-bottom: 4px;">PARTE 2: ROTEIRO DE APOIO PARA A CENTRAL DE ATENDIMENTO</p>
 
 !!! note "Quem deve ler esta parte"
     **Nota:** Atendentes e integrantes da Central de Atendimento (0800), para padronizar as orientações prestadas aos usuários.
 
-# PARTE 2: ROTEIRO DE APOIO PARA A CENTRAL DE ATENDIMENTO
-
-<h2 id="secao-12">12. ROTEIRO DE APOIO PARA A CENTRAL DE ATENDIMENTO</h2>
+<h2 id="secao-12" style="margin-top: 0;">12. ROTEIRO DE APOIO PARA A CENTRAL DE ATENDIMENTO</h2>
 
 Material de consulta rápida para atendentes. Use esse roteiro para dar orientações claras e seguir o mesmo padrão de atendimento. A análise da solicitação cabe ao administrador do SGA.
 
@@ -503,22 +504,25 @@ Material de consulta rápida para atendentes. Use esse roteiro para dar orienta�
 
 | RELATO DO USUÁRIO | O QUE PERGUNTAR | ORIENTAÇÃO |
 | :--- | :--- | :--- |
-| **“Não sei se meu órgão precisa aderir.”** | O órgão integra o SISG? É estadual, municipal ou privado? | Orientar conforme a [<a href="01-meu-orgao-precisa-aderir.md#secao-1">seção 1</a>](01-meu-orgao-precisa-aderir.md); se houver exceção por acordo, encaminhar para confirmação. |
-| **“Minha solicitação voltou.”** | Há comentário do administrador? Qual é o status? | Orientar a corrigir a solicitação existente ([<a href="06-solicitacao-voltou-como-corrigir.md#secao-6">seção 6</a>](06-solicitacao-voltou-como-corrigir.md)). Não abrir nova. |
-| **“Não encontro o Termo.”** | A solicitação foi enviada? Há pendência? | Verificar envio, status e comentários ([<a href="05-como-gerar-e-encaminhar-termo.md#secao-5">seção 5</a>](05-como-gerar-e-encaminhar-termo.md)). |
-| **“Qual perfil eu peço?”** | Qual atividade a pessoa vai exercer? | Apresentar a tabela de perfis ([<a href="04-qual-perfil-devo-solicitar.md#secao-4">seção 4</a>](04-qual-perfil-devo-solicitar.md)) e os documentos obrigatórios. |
-| **“O status não muda.”** | Qual é o status e desde quando? | Explicar o significado e quem age ([<a href="07-o-que-significa-o-status.md#secao-7">seção 7</a>](07-o-que-significa-o-status.md)). Se a orientação não resolver, registrar e encaminhar. |
+| **“Não sei se meu órgão precisa aderir.”** | O órgão integra o SISG? É estadual, municipal ou privado? | Orientar conforme a [seção 1](#secao-1); se houver exceção por acordo, encaminhar para confirmação. |
+| **“Minha solicitação voltou.”** | Há comentário do administrador? Qual é o status? | Orientar a corrigir a solicitação existente ([seção 6](#secao-6)). Não abrir nova. |
+| **“Não encontro o Termo.”** | A solicitação foi enviada? Há pendência? | Verificar envio, status e comentários ([seção 5](#secao-5)). |
+| **“Qual perfil eu peço?”** | Qual atividade a pessoa vai exercer? | Apresentar a tabela de perfis ([seção 4](#secao-4)) e os documentos obrigatórios. |
+| **“O status não muda.”** | Qual é o status e desde quando? | Explicar o significado e quem age ([seção 7](#secao-7)). Se a orientação não resolver, registrar e encaminhar. |
 | **“Perdi o acesso ao SGA.”** | A conta Gov.br está ativa? Há outro responsável cadastrado? | Orientar a verificar a conta Gov.br e acionar outro responsável. Se o problema continuar, registre o caso. |
 
 ---
 
 !!! tip "PADRÃO DE ATENDIMENTO"
     **Dica:**
+
     * **Registre sempre:** Órgão, solicitação, usuário, etapa, mensagem exata, data e horário, e o que já foi tentado.
     * **Segurança:** Nunca solicite senha, código de autenticação ou captura de tela com dados sensíveis.
     * **Perfil:** Não defina o perfil pelo usuário: o órgão deve escolher o perfil de acordo com a atividade da pessoa.
 
-  <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2); margin-left: 10px;">
-    🖨️ Imprimir ou baixar esta página
+<br>
+<div style="text-align: right; margin: 10px 0;">
+  <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+    🖨️ Imprimir esta página
   </button>
 </div>
