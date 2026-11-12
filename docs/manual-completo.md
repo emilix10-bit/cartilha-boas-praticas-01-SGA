@@ -16,7 +16,7 @@
 ---
 
 !!! note "PÚBLICO-ALVO"
-    **Nota:** Usuários, Central de Atendimento e órgãos e entidades que acessam o Sistema Integrado de Administração de Serviços Gerais (SIASG)/Compras.gov.br, gestores e operadores de estados e municípios.
+    Usuários, Central de Atendimento e órgãos e entidades que acessam o Sistema Integrado de Administração de Serviços Gerais (SIASG)/Compras.gov.br, gestores e operadores de estados e municípios.
 
 ---
 
@@ -35,7 +35,7 @@ O **Sistema de Gestão de Acesso (SGA)** é a ferramenta eletrônica usada para 
 Segundo a página oficial do SGA, o processo que antes levava cerca de 1 a 2 semanas passa a ser concluído em poucas horas após a validação da documentação apresentada.
 
 !!! note "Termo de Acesso ou Termo de Adesão?"
-    **Nota:** Nesta cartilha, **Termo de Acesso** é o nome do documento utilizado no SGA. Em orientações e comunicações mais antigas, ele pode aparecer como *Termo de Adesão*. Os dois nomes se referem ao documento usado para formalizar o acesso do órgão ou entidade ao SIASG.
+    Nesta cartilha, **Termo de Acesso** é o nome do documento utilizado no SGA. Em orientações e comunicações mais antigas, ele pode aparecer como *Termo de Adesão*. Os dois nomes se referem ao documento usado para formalizar o acesso do órgão ou entidade ao SIASG.
 
 ---
 
@@ -111,7 +111,7 @@ Tenha em mãos antes de iniciar qualquer ação:
 ### Parte 1: Guia Prático do Usuário e do Gestor
 
 !!! note "Quem deve ler esta parte"
-    **Nota:** Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
+    Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
 
 1. [Seção 1 — Meu órgão precisa aderir ao SGA?](#secao-1)
 2. [Seção 2 — Quem é o responsável pelo SGA?](#secao-2)
@@ -133,7 +133,7 @@ Tenha em mãos antes de iniciar qualquer ação:
 ### Parte 2: Roteiro de Apoio para a Central de Atendimento
 
 !!! note "Quem deve ler esta parte"
-    **Nota:** Atendentes e integrantes da Central de Atendimento (0800), para padronizar as orientações prestadas aos usuários.
+    Atendentes e integrantes da Central de Atendimento (0800), para padronizar as orientações prestadas aos usuários.
 
 12. [Seção 12 — Roteiro de apoio para a Central de Atendimento (0800)](#secao-12)
 
@@ -142,7 +142,7 @@ Tenha em mãos antes de iniciar qualquer ação:
 <p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 25px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
 !!! note "Quem deve ler esta parte"
-    **Nota:** Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
+    Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
 
 <h2 id="secao-1" style="margin-top: 0;">1. MEU ÓRGÃO PRECISA ADERIR AO SGA?</h2>
 
@@ -287,7 +287,7 @@ Escolha o perfil conforme a atividade que será realizada:
 ---
 
 !!! note "NÃO SABE SE A SOLICITAÇÃO FOI ENVIADA?"
-    **Nota:** Consulte a situação da solicitação no SGA e verifique se há comentários ou pendências.
+    Consulte a situação da solicitação no SGA e verifique se há comentários ou pendências.
 
 ---
 
@@ -312,7 +312,7 @@ Escolha o perfil conforme a atividade que será realizada:
 ---
 
 !!! note "MENSAGEM ESPERADA"
-    **Nota:** Depois que você enviar a correção, o sistema mostrará a situação “Termo e usuário SIASG corrigidos”.
+    Depois que você enviar a correção, o sistema mostrará a situação “Termo e usuário SIASG corrigidos”.
 
 ---
 
@@ -336,7 +336,7 @@ Escolha o perfil conforme a atividade que será realizada:
 ---
 
 !!! note "NOTIFICAÇÕES"
-    **Nota:** O responsável recebe notificações sobre o andamento e as pendências no e-mail informado no cadastro. Confira também a pasta de spam, onde ficam as mensagens que o e-mail identifica como indesejadas.
+    O responsável recebe notificações sobre o andamento e as pendências no e-mail informado no cadastro. Confira também a pasta de spam, onde ficam as mensagens que o e-mail identifica como indesejadas.
 
 ---
 
@@ -384,7 +384,7 @@ Escolha o perfil conforme a atividade que será realizada:
 Procure a Central de Atendimento quando o problema não estiver relacionado às pendências apresentadas pelo SGA ou quando a orientação do próprio sistema não resolver a situação.
 
 !!! note "CANAL DA CENTRAL DE ATENDIMENTO"
-    **Nota:** **0800 978 9001**  
+    **0800 978 9001**  
     Selecione a **opção 6 – Outros sistemas** e, depois, a **subopção 1 – SGA**.  
     *Para problemas de acesso à conta Gov.br, procure o suporte da própria conta no portal Gov.br.*
 
@@ -448,7 +448,7 @@ Procure a Central de Atendimento quando o problema não estiver relacionado às 
 ---
 
 !!! note "DEPOIS DE ENVIAR"
-    **Nota:** Confirme o envio e acompanhe a situação da solicitação.
+    Confirme o envio e acompanhe a situação da solicitação.
 
 ---
 
@@ -492,7 +492,7 @@ Consulte o Manual do SGA quando precisar de instruções mais detalhadas, explic
 <p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 25px; margin-bottom: 4px;">PARTE 2: ROTEIRO DE APOIO PARA A CENTRAL DE ATENDIMENTO</p>
 
 !!! note "Quem deve ler esta parte"
-    **Nota:** Atendentes e integrantes da Central de Atendimento (0800), para padronizar as orientações prestadas aos usuários.
+    Atendentes e integrantes da Central de Atendimento (0800), para padronizar as orientações prestadas aos usuários.
 
 <h2 id="secao-12" style="margin-top: 0;">12. ROTEIRO DE APOIO PARA A CENTRAL DE ATENDIMENTO</h2>
 
