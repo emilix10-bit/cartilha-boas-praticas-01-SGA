@@ -10,7 +10,7 @@
 </div>
 
 !!! note "Quem deve ler esta parte"
-    **Nota:** Atendentes e integrantes da Central de Atendimento (0800), para padronizar as orientações prestadas aos usuários.
+    Atendentes e integrantes da Central de Atendimento (0800), para padronizar as orientações prestadas aos usuários.
 
 <p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 2: ROTEIRO DE APOIO PARA A CENTRAL DE ATENDIMENTO</p>
 
