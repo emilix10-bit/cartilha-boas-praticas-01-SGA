@@ -12,20 +12,20 @@
 !!! note "Quem deve ler esta parte"
     **Nota:** Servidores, gestores e colaboradores de órgãos e entidades que precisam solicitar a adesão ao SGA, cadastrar usuários ou gerenciar perfis de acesso.
 
-# PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR
+<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
-<h2 id="secao-7">7. O QUE SIGNIFICA O STATUS?</h2>
+<h1 id="secao-7" style="margin-top: 0;">7. O QUE SIGNIFICA O STATUS?</h1>
 
-**Assuntos relacionados:** [<a href="06-solicitacao-voltou-como-corrigir.md#secao-6">Minha solicitação voltou. Como corrigir?</a>](06-solicitacao-voltou-como-corrigir.md) \| [<a href="10-quando-procurar-a-central.md#secao-10">Quando devo procurar a Central?</a>](10-quando-procurar-a-central.md)
+**Assuntos relacionados:** [Minha solicitação voltou. Como corrigir?](06-solicitacao-voltou-como-corrigir.md#secao-6) | [Quando devo procurar a Central?](10-quando-procurar-a-central.md#secao-10)
 
 ---
 
-### Tabela de Situações e Encaminhamentos
+## Tabela de Situações e Encaminhamentos
 
 | SITUAÇÃO | O QUE SIGNIFICA | QUEM AGE AGORA | O QUE VOCÊ DEVE FAZER |
 | :--- | :--- | :--- | :--- |
 | **Aguardando validação** | O administrador recebeu a solicitação e ainda precisa analisá-la. | Administrador MGI | Acompanhe pelo SGA e pelo e-mail cadastrado. |
-| **Revalidar termo e usuário** | Termo devolvido com pendências. | Responsável do órgão | Identifique a pendência, corrija e reenvie. Veja a [<a href="06-solicitacao-voltou-como-corrigir.md#secao-6">seção 6</a>](06-solicitacao-voltou-como-corrigir.md). |
+| **Revalidar termo e usuário** | Termo devolvido com pendências. | Responsável do órgão | Identifique a pendência, corrija e reenvie. Veja a [seção 6](06-solicitacao-voltou-como-corrigir.md#secao-6). |
 | **Termo e usuário SIASG corrigidos** | A correção foi enviada. Agora, o administrador precisa analisá-la novamente. | Administrador MGI | Acompanhe pelo SGA e pelo e-mail cadastrado. |
 | **Termo e usuário SIASG válidos** | Aguardando a criação da UASG. | Administrador MGI | Acompanhe pelo SGA e pelo e-mail cadastrado. |
 | **Aguardando habilitação do(s) usuário(s) SIASG** | UASG criada e aguardando ação do administrador. | Administrador MGI | Acompanhe pelo SGA e pelo e-mail cadastrado. |
