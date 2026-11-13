@@ -92,9 +92,7 @@ Antes de entrar nos detalhes, veja o caminho completo. Cada etapa corresponde a 
 
 Se o administrador encontrar algo que precisa ser corrigido, ele devolve a solicitação ao responsável. Após a correção, o processo continua a partir da etapa 3. Veja a <a href="06-solicitacao-voltou-como-corrigir.md#secao-6">seção 6: MINHA SOLICITAÇÃO VOLTOU. COMO CORRIGIR?</a>
 
-<h3 id="antes-de-comecar">Antes de começar</h3>
-
-Tenha em mãos antes de iniciar qualquer ação:
+<h3 id="antes-de-comecar">Tenha em mãos antes de começar qualquer ação:</h3>
 
 * [x] Dados do órgão ou entidade e do dirigente máximo (ou representante legal).
 * [x] Dados do responsável: nome, CPF, cargo, telefone, data de nascimento e e-mail.
