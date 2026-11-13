@@ -9,13 +9,11 @@
   </button>
 </div>
 
-<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
 <h1 id="secao-5" style="margin-top: 0;">5. COMO GERAR E ENCAMINHAR O TERMO?</h1>
 
 **Assuntos relacionados:** [Minha solicitação voltou. Como corrigir?](06-solicitacao-voltou-como-corrigir.md#secao-6) | [O que significa a situação apresentada?](07-o-que-significa-o-status.md#secao-7)
 
----
 
 ## Passo a passo para gerar e encaminhar o Termo
 
@@ -25,14 +23,14 @@
 4. **Selecione “Avançar”:** Após anexar o Termo assinado, selecione “Avançar” para enviá-lo para o administrador analisar.
 5. **Acompanhe a análise do Termo:** Use a opção “Ir para o sistema”.
 
----
+
 
 ![Tela 3 — Anexação do Termo de Acesso assinado](Imagens/sga-tela3.jpg)
 
 **CONFIRA:** O campo para anexar o documento assinado.  
 **AÇÃO:** Escolha o arquivo e selecione “Avançar”.
 
----
+
 
 !!! note "NÃO SABE SE A SOLICITAÇÃO FOI ENVIADA?"
     Consulte a situação da solicitação no SGA e verifique se há comentários ou pendências.
