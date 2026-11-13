@@ -10,8 +10,6 @@
 </div>
 
 
-<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
-
 <h1 id="secao-2" style="margin-top: 0;">2. QUEM É O RESPONSÁVEL PELO SGA?</h1>
 
 | DÚVIDA | ORIENTAÇÃO |
@@ -21,7 +19,6 @@
 | **Posso excluir todos os responsáveis?** | Não. Antes de excluir o último, cadastre um novo responsável ativo. Caso contrário, o órgão ficará sem acesso ao sistema. |
 | **Como o responsável entra no SGA?** | O responsável acessa o SGA com uma conta ativa no Gov.br. |
 
----
 
 !!! tip "DADOS DO RESPONSÁVEL"
     No cadastro de novo responsável, o sistema solicita: nome, CPF, cargo, telefone, data de nascimento e e-mail. De preferência, informe um e-mail institucional que você consulte regularmente. As notificações do SGA serão enviadas para esse endereço.
