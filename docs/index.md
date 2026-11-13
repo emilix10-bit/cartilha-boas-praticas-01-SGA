@@ -101,7 +101,6 @@ Se o administrador encontrar algo que precisa ser corrigido, ele devolve a solic
 * [x] Atos de nomeação (ou Termo de Posse) para os perfis que exigem documento.
 * [x] Meio de assinatura (física ou digital) pela autoridade máxima. O arquivo anexado deve estar em PDF, com até 20 MB.
 
----
 
 ## SUMÁRIO DE NAVEGAÇÃO
 
