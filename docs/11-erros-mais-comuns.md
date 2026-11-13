@@ -9,7 +9,6 @@
   </button>
 </div>
 
-<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
 <h1 id="secao-11" style="margin-top: 0;">11. ERROS MAIS COMUNS E COMO EVITÁ-LOS</h1>
 
