@@ -9,7 +9,6 @@
   </button>
 </div>
 
-<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
 <h1 id="checklist-de-verificacao" style="margin-top: 0;">CHECKLIST DE VERIFICAÇÃO</h1>
 
@@ -22,7 +21,7 @@
 - [x] Documentos obrigatórios anexados;
 - [x] Termo ou ofício assinado, em PDF de até 20 MB.
 
----
+
 
 !!! note "DEPOIS DE ENVIAR"
     Confirme o envio e acompanhe a situação da solicitação.
