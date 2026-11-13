@@ -17,9 +17,9 @@
 
 ---
 
-Procure a Central de Atendimento quando o problema não estiver relacionado às pendências apresentadas pelo SGA ou quando a orientação do próprio sistema não resolver a situação.
+Procure a [Central de Atendimento](https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/central-de-atendimento) quando o problema não estiver relacionado às pendências apresentadas pelo SGA ou quando a orientação do próprio sistema não resolver a situação.
 
-!!! note "CANAL DA CENTRAL DE ATENDIMENTO"
+!!! note ["CANAL DA CENTRAL DE ATENDIMENTO"](https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/central-de-atendimento)
     **0800 978 9001**  
     Selecione a **opção 6 – Outros sistemas** e, depois, a **subopção 1 – SGA**.  
     *Para problemas de acesso à conta Gov.br, procure o suporte da própria conta no portal Gov.br.*
