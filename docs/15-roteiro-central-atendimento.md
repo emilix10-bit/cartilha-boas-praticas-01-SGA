@@ -9,13 +9,12 @@
   </button>
 </div>
 
-<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 2: ROTEIRO DE APOIO PARA A CENTRAL DE ATENDIMENTO</p>
 
 <h1 id="secao-12" style="margin-top: 0;">12. ROTEIRO DE APOIO PARA A CENTRAL DE ATENDIMENTO</h1>
 
 Material de consulta rápida para atendentes. Use esse roteiro para dar orientações claras e seguir o mesmo padrão de atendimento. A análise da solicitação cabe ao administrador do SGA.
 
----
+
 
 ## Tabela de Orientação ao Atendente
 
@@ -28,7 +27,7 @@ Material de consulta rápida para atendentes. Use esse roteiro para dar orienta�
 | **“O status não muda.”** | Qual é o status e desde quando? | Explicar o significado e quem age ([seção 7](07-o-que-significa-o-status.md#secao-7)). Se a orientação não resolver, registrar e encaminhar. |
 | **“Perdi o acesso ao SGA.”** | A conta Gov.br está ativa? Há outro responsável cadastrado? | Orientar a verificar a conta Gov.br e acionar outro responsável. Se o problema continuar, registre o caso. |
 
----
+
 
 !!! tip "PADRÃO DE ATENDIMENTO"
     * **Registre sempre:** Órgão, solicitação, usuário, etapa, mensagem exata, data e horário, e o que já foi tentado.
