@@ -16,8 +16,6 @@
 !!! note "RESPOSTA RÁPIDA"
     Órgãos e entidades federais integrantes do Sistema de Serviços Gerais (SISG) não precisam solicitar adesão pelo SGA. Os demais, de modo geral, precisam.
 
----
-
 ## Situação do Órgão ou Entidade
 
 | SITUAÇÃO DO ÓRGÃO OU ENTIDADE | PRECISA SOLICITAR ADESÃO? |
@@ -31,7 +29,7 @@
 !!! warning "ATENÇÃO"
     Alguns acordos podem prever exceções. Antes de começar, confirme se seu órgão ou entidade precisa solicitar a adesão. Em caso de dúvida, consulte a Central de Atendimento.
 
----
+
 
 ## O processo de adesão
 
@@ -42,7 +40,7 @@
 5. **Anexe e encaminhe:** Inclua o documento no SGA e envie para análise.
 6. **Acompanhe:** Acompanhe a situação e corrija o que foi pedido.
 
----
+
 
 ![Tela 1 — Início da adesão: página do SGA no Portal de Compras](Imagens/sga-tela1.png)
 
