@@ -10,13 +10,10 @@
 </div>
 
 
-<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
-
 <h1 id="secao-8" style="margin-top: 0;">8. COMO SOLICITAR NOVOS USUÁRIOS?</h1>
 
 **Assuntos relacionados:** [Posso alterar usuários, perfis e responsáveis?](09-alterar-usuarios-perfis-responsaveis.md#secao-9)
 
----
 
 ## Passo a passo para solicitar novos usuários
 
