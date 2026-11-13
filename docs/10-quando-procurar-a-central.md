@@ -9,13 +9,12 @@
   </button>
 </div>
 
-<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
 <h1 id="secao-10" style="margin-top: 0;">10. QUANDO PROCURAR A CENTRAL?</h1>
 
 **Assuntos relacionados:** [Quais são os erros mais comuns?](11-erros-mais-comuns.md#secao-11)
 
----
+
 
 Procure a [Central de Atendimento](https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/central-de-atendimento) quando o problema não estiver relacionado às pendências apresentadas pelo SGA ou quando a orientação do próprio sistema não resolver a situação.
 
@@ -24,7 +23,7 @@ Procure a [Central de Atendimento](https://www.gov.br/gestao/pt-br/assuntos/gest
     Selecione a **opção 6 – Outros sistemas** e, depois, a **subopção 1 – SGA**.  
     *Para problemas de acesso à conta Gov.br, procure o suporte da própria conta no portal Gov.br.*
 
----
+
 
 ## Antes de pedir ajuda, reúna estas informações:
 
@@ -36,7 +35,7 @@ Procure a [Central de Atendimento](https://www.gov.br/gestao/pt-br/assuntos/gest
 - [x] O que você já tentou fazer.
 - [x] Qual atividade você não consegue realizar por causa do problema.
 
----
+
 
 !!! warning "SEGURANÇA"
     **Atenção:** Nunca envie senha, código de autenticação ou credenciais de acesso — nem por e-mail, chamado, mensagem ou captura de tela. A equipe de atendimento nunca precisa desses dados.
