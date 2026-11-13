@@ -9,13 +9,12 @@
   </button>
 </div>
 
-<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
 <h1 id="secao-7" style="margin-top: 0;">7. O QUE SIGNIFICA O STATUS?</h1>
 
 **Assuntos relacionados:** [Minha solicitação voltou. Como corrigir?](06-solicitacao-voltou-como-corrigir.md#secao-6) | [Quando devo procurar a Central?](10-quando-procurar-a-central.md#secao-10)
 
----
+
 
 ## Tabela de Situações e Encaminhamentos
 
@@ -28,7 +27,7 @@
 | **Aguardando habilitação do(s) usuário(s) SIASG** | UASG criada e aguardando ação do administrador. | Administrador MGI | Acompanhe pelo SGA e pelo e-mail cadastrado. |
 | **Processo de solicitação de acesso finalizado** | Termo formalizado e pronto para novas solicitações. | Responsável do órgão | Acompanhe a liberação ou faça novas solicitações. |
 
----
+
 
 !!! note "NOTIFICAÇÕES"
     O responsável recebe notificações sobre o andamento e as pendências no e-mail informado no cadastro. Confira também a pasta de spam, onde ficam as mensagens que o e-mail identifica como indesejadas.
