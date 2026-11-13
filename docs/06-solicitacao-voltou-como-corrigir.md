@@ -9,7 +9,6 @@
   </button>
 </div>
 
-<p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 15px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
 <h1 id="secao-6" style="margin-top: 0;">6. MINHA SOLICITAÇÃO VOLTOU. COMO CORRIGIR?</h1>
 
@@ -18,7 +17,7 @@
 !!! note "RESPOSTA RÁPIDA"
     Não abra outra solicitação. Corrija a solicitação que já existe e envie novamente.
 
----
+
 
 ## Passo a passo para correção
 
@@ -29,7 +28,6 @@
 5. **Gere novamente o Termo:** Baixe, assine e anexe o documento corrigido.
 6. **Finalize:** Encaminhe novamente ao administrador.
 
----
 
 !!! note "MENSAGEM ESPERADA"
     Depois que você enviar a correção, o sistema mostrará a situação “Termo e usuário SIASG corrigidos”.
