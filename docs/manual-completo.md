@@ -13,7 +13,6 @@
 
 **Encontre sua situação. Veja a orientação. Faça a ação indicada.**
 
----
 
 !!! note "PÚBLICO-ALVO"
     * Usuários
@@ -21,13 +20,11 @@
     * Órgãos e entidades que acessam o Sistema Integrado de Administração de Serviços Gerais (SIASG)/Compras.gov.br
     * Gestores e operadores de estados e municípios.
 
----
 
 <h2 id="como-usar-esta-cartilha">Como usar esta cartilha</h2>
 
 Escolha no menu lateral ou nos links abaixo a pergunta que mais se aproxima da sua situação. Cada uma delas é uma seção que traz a resposta, o que conferir, o que fazer e quando pedir ajuda. Os destaques mostram os cuidados necessários, as exigências e os dados que você nunca deve enviar ao atendimento.
 
----
 
 <h2 id="para-comecar">Para Começar</h2>
 
@@ -40,7 +37,7 @@ Segundo a página oficial do SGA, o processo que antes levava cerca de 1 a 2 sem
 !!! note "Termo de Acesso ou Termo de Adesão?"
     Nesta cartilha, **Termo de Acesso** é o nome do documento utilizado no SGA. Em orientações e comunicações mais antigas, ele pode aparecer como *Termo de Adesão*. Os dois nomes se referem ao documento usado para formalizar o acesso do órgão ou entidade ao SIASG.
 
----
+
 
 <h3 id="quem-e-quem">Quem é quem</h3>
 
@@ -50,7 +47,7 @@ Conheça os principais papéis e suas funções:
 - **Usuário:** Recebe os perfis necessários às atividades que realizará.
 - **Administrador do SGA:** Analisa a solicitação e os documentos.
 
----
+
 
 <h3 id="visao-geral-do-processo">Visão geral do processo</h3>
 
@@ -94,7 +91,7 @@ Antes de entrar nos detalhes, veja o caminho completo. Cada etapa corresponde a 
 
 Se o administrador encontrar algo que precisa ser corrigido, ele devolve a solicitação ao responsável. Após a correção, o processo continua a partir da etapa 3. Veja a [seção 6: MINHA SOLICITAÇÃO VOLTOU. COMO CORRIGIR?](#secao-6)
 
----
+
 
 <h3 id="antes-de-comecar">Antes de começar</h3>
 
@@ -107,7 +104,7 @@ Tenha em mãos antes de iniciar qualquer ação:
 - [x] Atos de nomeação (ou Termo de Posse) para os perfis que exigem documento.
 - [x] Meio de assinatura (física ou digital) pela autoridade máxima. O arquivo anexado deve estar em PDF, com até 20 MB.
 
----
+
 
 ## SUMÁRIO DE NAVEGAÇÃO
 
@@ -129,13 +126,13 @@ Tenha em mãos antes de iniciar qualquer ação:
 - [Checklist de Verificação](#checklist-de-verificacao)
 - [Glossário e Referências](#glossario)
 
----
+
 
 ### Parte 2: Roteiro de Apoio para a Central de Atendimento
 
 12. [Seção 12 — Roteiro de apoio para a Central de Atendimento (0800)](#secao-12)
 
----
+
 
 <p style="font-weight: bold; color: #0056b3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 25px; margin-bottom: 4px;">PARTE 1: GUIA PRÁTICO DO USUÁRIO E DO GESTOR</p>
 
@@ -144,7 +141,7 @@ Tenha em mãos antes de iniciar qualquer ação:
 !!! note "RESPOSTA RÁPIDA"
     Órgãos e entidades federais integrantes do Sistema de Serviços Gerais (SISG) não precisam solicitar adesão pelo SGA. Os demais, de modo geral, precisam.
 
----
+
 
 ### Situação do Órgão ou Entidade
 
@@ -159,7 +156,7 @@ Tenha em mãos antes de iniciar qualquer ação:
 !!! warning "ATENÇÃO"
     Alguns acordos podem prever exceções. Antes de começar, confirme se seu órgão ou entidade precisa solicitar a adesão. Em caso de dúvida, consulte a [Central de Atendimento](https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/central-de-atendimento).
 
----
+
 
 ### O processo de adesão
 
@@ -170,14 +167,14 @@ Tenha em mãos antes de iniciar qualquer ação:
 5. **Anexe e encaminhe:** Inclua o documento no SGA e envie para análise.
 6. **Acompanhe:** Acompanhe a situação e corrija o que foi pedido.
 
----
+
 
 ![Tela 1 — Início da adesão: página do SGA no Portal de Compras](Imagens/sga-tela1.png)
 
 **CONFIRA:** A opção “Termo de Acesso”.  
 **AÇÃO:** Selecione a opção para iniciar o formulário.
 
----
+
 
 <h2 id="secao-2">2. QUEM É O RESPONSÁVEL PELO SGA?</h2>
 
@@ -188,12 +185,12 @@ Tenha em mãos antes de iniciar qualquer ação:
 | **Posso excluir todos os responsáveis?** | Não. Antes de excluir o último, cadastre um novo responsável ativo. Caso contrário, o órgão ficará sem acesso ao sistema. |
 | **Como o responsável entra no SGA?** | O responsável acessa o SGA com uma conta ativa no Gov.br. |
 
----
+
 
 !!! tip "DADOS DO RESPONSÁVEL"
     No cadastro de novo responsável, o sistema solicita: nome, CPF, cargo, telefone, data de nascimento e e-mail. De preferência, informe um e-mail institucional que você consulte regularmente. As notificações do SGA serão enviadas para esse endereço.
 
----
+
 
 <h2 id="secao-3">3. COMO CADASTRAR UM USUÁRIO?</h2>
 
@@ -202,7 +199,7 @@ Tenha em mãos antes de iniciar qualquer ação:
 !!! warning "ATENÇÃO"
     É obrigatório cadastrar pelo menos um usuário antes de prosseguir.
 
----
+
 
 ### Passo a passo para cadastro
 
@@ -212,20 +209,20 @@ Tenha em mãos antes de iniciar qualquer ação:
 4. **Salve:** Salve o cadastro. A tela continuará aberta para incluir outros usuários, se necessário.
 5. **Avance:** Selecione “Avançar” quando terminar de cadastrar todos os usuários.
 
----
+
 
 ![Tela 2 — Cadastro de usuário e seleção de perfil](Imagens/sga-tela2.jpg)
 
 **CONFIRA:** Dados do usuário, perfil e documentos exigidos.  
 **AÇÃO:** Selecione o perfil, salve e avance.
 
----
+
 
 <h2 id="secao-4">4. QUAL PERFIL DEVO SOLICITAR?</h2>
 
 **Assuntos relacionados:** [Como cadastrar um usuário?](#secao-3)
 
----
+
 
 ### Perfil por Atividade
 
@@ -245,7 +242,7 @@ Escolha o perfil conforme a atividade que será realizada:
 | **Autorizar publicação** | Autorizador do Órgão Comprador |
 | **Cadastrar oportunidade e selecionar fornecedor** | Demandante do Órgão Comprador |
 
----
+
 
 !!! note "DOCUMENTOS OBRIGATÓRIOS"
     * **Pregoeiro ou Agente de Contratação:** Ato de nomeação específico.
@@ -254,13 +251,13 @@ Escolha o perfil conforme a atividade que será realizada:
 !!! tip "BOA PRÁTICA"
     Solicite apenas o perfil necessário para a atividade da pessoa. Perfis em excesso aumentam o risco de uso indevido e dificultam a gestão do órgão. Os perfis que aparecem na tela podem mudar conforme a versão do sistema; em caso de divergência, prevalece o que aparece no SGA e o Manual vigente.
 
----
+
 
 <h2 id="secao-5">5. COMO GERAR E ENCAMINHAR O TERMO?</h2>
 
 **Assuntos relacionados:** [Minha solicitação voltou. Como corrigir?](#secao-6) | [O que significa a situação apresentada?](#secao-7)
 
----
+
 
 ### Passo a passo para gerar e encaminhar o Termo
 
@@ -270,19 +267,19 @@ Escolha o perfil conforme a atividade que será realizada:
 4. **Selecione “Avançar”:** Após anexar o Termo assinado, selecione “Avançar” para enviá-lo para o administrador analisar.
 5. **Acompanhe a análise do Termo:** Use a opção “Ir para o sistema”.
 
----
+
 
 ![Tela 3 — Anexação do Termo de Acesso assinado](Imagens/sga-tela3.jpg)
 
 **CONFIRA:** O campo para anexar o documento assinado.  
 **AÇÃO:** Escolha o arquivo e selecione “Avançar”.
 
----
+
 
 !!! note "NÃO SABE SE A SOLICITAÇÃO FOI ENVIADA?"
     Consulte a situação da solicitação no SGA e verifique se há comentários ou pendências.
 
----
+
 
 <h2 id="secao-6">6. MINHA SOLICITAÇÃO VOLTOU. COMO CORRIGIR?</h2>
 
@@ -291,7 +288,7 @@ Escolha o perfil conforme a atividade que será realizada:
 !!! note "RESPOSTA RÁPIDA"
     Não abra outra solicitação. Corrija a solicitação que já existe e envie novamente.
 
----
+
 
 ### Passo a passo para correção
 
@@ -302,18 +299,18 @@ Escolha o perfil conforme a atividade que será realizada:
 5. **Gere novamente o Termo:** Baixe, assine e anexe o documento corrigido.
 6. **Finalize:** Encaminhe novamente ao administrador.
 
----
+
 
 !!! note "MENSAGEM ESPERADA"
     Depois que você enviar a correção, o sistema mostrará a situação “Termo e usuário SIASG corrigidos”.
 
----
+
 
 <h2 id="secao-7">7. O QUE SIGNIFICA O STATUS?</h2>
 
 **Assuntos relacionados:** [Minha solicitação voltou. Como corrigir?](#secao-6) | [Quando devo procurar a Central?](#secao-10)
 
----
+
 
 ### Tabela de Situações e Encaminhamentos
 
@@ -326,18 +323,18 @@ Escolha o perfil conforme a atividade que será realizada:
 | **Aguardando habilitação do(s) usuário(s) SIASG** | UASG criada e aguardando ação do administrador. | Administrador MGI | Acompanhe pelo SGA e pelo e-mail cadastrado. |
 | **Processo de solicitação de acesso finalizado** | Termo formalizado e pronto para novas solicitações. | Responsável do órgão | Acompanhe a liberação ou faça novas solicitações. |
 
----
+
 
 !!! note "NOTIFICAÇÕES"
     O responsável recebe notificações sobre o andamento e as pendências no e-mail informado no cadastro. Confira também a pasta de spam, onde ficam as mensagens que o e-mail identifica como indesejadas.
 
----
+
 
 <h2 id="secao-8">8. COMO SOLICITAR NOVOS USUÁRIOS?</h2>
 
 **Assuntos relacionados:** [Posso alterar usuários, perfis e responsáveis?](#secao-9)
 
----
+
 
 ### Passo a passo para solicitar novos usuários
 
@@ -348,13 +345,13 @@ Escolha o perfil conforme a atividade que será realizada:
 5. **Anexe e avance:** Encaminhe o documento para análise.
 6. **Acompanhe:** Confira se há algo a corrigir e acompanhe a liberação dos acessos.
 
----
+
 
 <h2 id="secao-9">9. POSSO ALTERAR USUÁRIOS, PERFIS E RESPONSÁVEIS?</h2>
 
 **Assuntos relacionados:** [Como solicitar novos usuários?](#secao-8)
 
----
+
 
 ### Dúvidas frequentes sobre alteração de cadastros
 
@@ -366,13 +363,13 @@ Escolha o perfil conforme a atividade que será realizada:
 | **Como incluir novo responsável?** | Acesse “Usuários SIASG” e “Gerenciar usuários responsáveis”, selecione “Cadastrar”, preencha os campos e salve. |
 | **Como editar ou excluir responsável?** | Em “Gerenciar usuários responsáveis”, use “Editar” ou “Excluir”. Mantenha pelo menos um responsável ativo. Antes de excluir o último responsável cadastrado, cadastre um novo. |
 
----
+
 
 <h2 id="secao-10">10. QUANDO PROCURAR A CENTRAL?</h2>
 
 **Assuntos relacionados:** [Quais são os erros mais comuns?](#secao-11)
 
----
+
 
 Procure a [Central de Atendimento](https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/central-de-atendimento) quando o problema não estiver relacionado às pendências apresentadas pelo SGA ou quando a orientação do próprio sistema não resolver a situação.
 
@@ -381,7 +378,7 @@ Procure a [Central de Atendimento](https://www.gov.br/gestao/pt-br/assuntos/gest
     Selecione a **opção 6 – Outros sistemas** e, depois, a **subopção 1 – SGA**.  
     *Para problemas de acesso à conta Gov.br, procure o [suporte da própria conta no portal Gov.br](https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br).*
 
----
+
 
 ### Antes de pedir ajuda, reúna estas informações:
 
@@ -393,12 +390,12 @@ Procure a [Central de Atendimento](https://www.gov.br/gestao/pt-br/assuntos/gest
 - [x] O que você já tentou fazer.
 - [x] Qual atividade você não consegue realizar por causa do problema.
 
----
+
 
 !!! warning "SEGURANÇA"
     Nunca envie senha, código de autenticação ou credenciais de acesso — nem por e-mail, chamado, mensagem ou captura de tela. A equipe de atendimento nunca precisa desses dados.
 
----
+
 
 <h2 id="secao-11">11. ERROS MAIS COMUNS E COMO EVITÁ-LOS</h2>
 
@@ -438,7 +435,7 @@ Procure a [Central de Atendimento](https://www.gov.br/gestao/pt-br/assuntos/gest
 - [x] Documentos obrigatórios anexados;
 - [x] Termo ou ofício assinado, em PDF de até 20 MB.
 
----
+
 
 !!! note "DEPOIS DE ENVIAR"
     Confirme o envio e acompanhe a situação da solicitação.
@@ -459,7 +456,7 @@ Procure a [Central de Atendimento](https://www.gov.br/gestao/pt-br/assuntos/gest
 | **Perfil** | Conjunto de permissões associado à atividade que o usuário exerce. |
 | **Gov.br** | Conta única de acesso do cidadão e do servidor aos serviços digitais do governo federal. |
 
----
+
 
 ### Quando esta cartilha não for suficiente
 
@@ -470,7 +467,7 @@ Consulte o Manual do SGA quando precisar de instruções mais detalhadas, explic
 - [**Perguntas frequentes do SIASG:**](https://www.gov.br/compras/pt-br/acesso-a-informacao/perguntas-frequentes/siasg) gov.br/compras — Perguntas frequentes
 - **Guia de Atendimento 01 ([Central de Atendimento](https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/central-de-atendimento)):** material de apoio ao atendente.
 
----
+
 
 ### Referências
 
@@ -491,7 +488,7 @@ Consulte o Manual do SGA quando precisar de instruções mais detalhadas, explic
 
 Material de consulta rápida para atendentes. Use esse roteiro para dar orientações claras e seguir o mesmo padrão de atendimento. A análise da solicitação cabe ao administrador do SGA.
 
----
+
 
 ### Tabela de Orientação ao Atendente
 
@@ -504,7 +501,7 @@ Material de consulta rápida para atendentes. Use esse roteiro para dar orienta�
 | **“O status não muda.”** | Qual é o status e desde quando? | Explicar o significado e quem age ([seção 7](#secao-7)). Se a orientação não resolver, registrar e encaminhar. |
 | **“Perdi o acesso ao SGA.”** | A conta Gov.br está ativa? Há outro responsável cadastrado? | Orientar a verificar a conta Gov.br e acionar outro responsável. Se o problema continuar, registre o caso. |
 
----
+
 
 !!! tip "PADRÃO DE ATENDIMENTO"
     * **Registre sempre:** Órgão, solicitação, usuário, etapa, mensagem exata, data e horário, e o que já foi tentado.
