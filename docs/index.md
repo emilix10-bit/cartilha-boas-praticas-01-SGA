@@ -13,19 +13,21 @@
 
 **Encontre sua situação. Veja a orientação. Faça a ação indicada.**
 
-<p style="font-weight: bold; color: #d9534f; margin-top: -5px; margin-bottom: 20px;">**PÚBLICO-ALVO:**
-* Usuários
-* Central de Atendimento 
-* Órgãos e entidades que acessam o Sistema Integrado de Administração de Serviços Gerais (SIASG)/Compras.gov.br
-* Gestores e operadores de estados e municípios</p>
-
+<div style="color: #d9534f; margin-top: -5px; margin-bottom: 20px;">
+  <p style="margin-bottom: 4px;"><strong>PÚBLICO-ALVO:</strong></p>
+  <ul style="margin-top: 0;">
+    <li>Usuários</li>
+    <li>Central de Atendimento</li>
+    <li>Órgãos e entidades que acessam o Sistema Integrado de Administração de Serviços Gerais (SIASG)/Compras.gov.br</li>
+    <li>Gestores e operadores de estados e municípios</li>
+  </ul>
+</div>
 ---
 
 <h2 id="como-usar-esta-cartilha">Como usar esta cartilha</h2>
 
 Escolha no menu lateral ou nos links abaixo a pergunta que mais se aproxima da sua situação. Cada uma delas é uma seção que traz a resposta, o que conferir, o que fazer e quando pedir ajuda. Os destaques mostram os cuidados necessários, as exigências e os dados que você nunca deve enviar ao atendimento.
 
----
 
 <h2 id="para-comecar">Para Começar</h2>
 
@@ -38,7 +40,6 @@ Segundo a página oficial do SGA, o processo que antes levava cerca de 1 a 2 sem
 !!! note "Termo de Acesso ou Termo de Adesão?"
     **Nota:** Nesta cartilha, **Termo de Acesso** é o nome do documento utilizado no SGA. Em orientações e comunicações mais antigas, ele pode aparecer como *Termo de Adesão*. Os dois nomes se referem ao documento usado para formalizar o acesso do órgão ou entidade ao SIASG.
 
----
 
 <h3 id="quem-e-quem">Quem é quem</h3>
 
@@ -48,7 +49,6 @@ Conheça os principais papéis e suas funções:
 * **Usuário:** Recebe os perfis necessários às atividades que realizará.
 * **Administrador do SGA:** Analisa a solicitação e os documentos.
 
----
 
 <h3 id="visao-geral-do-processo">Visão geral do processo</h3>
 
@@ -92,8 +92,6 @@ Antes de entrar nos detalhes, veja o caminho completo. Cada etapa corresponde a 
 
 Se o administrador encontrar algo que precisa ser corrigido, ele devolve a solicitação ao responsável. Após a correção, o processo continua a partir da etapa 3. Veja a <a href="06-solicitacao-voltou-como-corrigir.md#secao-6">seção 6: MINHA SOLICITAÇÃO VOLTOU. COMO CORRIGIR?</a>
 
----
-
 <h3 id="antes-de-comecar">Antes de começar</h3>
 
 Tenha em mãos antes de iniciar qualquer ação:
@@ -129,8 +127,6 @@ Tenha em mãos antes de iniciar qualquer ação:
 * [Checklist de Verificação](13-checklist-de-verificacao.md)
 * [Glossário e Referências](14-glossario-e-referencias.md)
 
----
-
 ### Parte 2: Roteiro de Apoio para a Central de Atendimento
 
 !!! note "Quem deve ler esta parte"
@@ -138,7 +134,6 @@ Tenha em mãos antes de iniciar qualquer ação:
 
 12. [Seção 12 — Roteiro de apoio para a Central de Atendimento (0800)](15-roteiro-central-atendimento.md)
 
----
 
 <br>
 <div style="text-align: right; margin: 10px 0;">
