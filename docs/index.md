@@ -13,11 +13,11 @@
 
 **Encontre sua situação. Veja a orientação. Faça a ação indicada.**
 
-<p style="font-weight: bold; color: #d9534f; margin-top: -5px; margin-bottom: 20px;">PÚBLICO-ALVO:
-    * Usuários
-    * Central de Atendimento 
-    * Órgãos e entidades que acessam o Sistema Integrado de Administração de Serviços Gerais (SIASG)/Compras.gov.br
-    * Gestores e operadores de estados e municípios</p>
+<p style="font-weight: bold; color: #d9534f; margin-top: -5px; margin-bottom: 20px;">*PÚBLICO-ALVO:*
+* Usuários
+* Central de Atendimento 
+* Órgãos e entidades que acessam o Sistema Integrado de Administração de Serviços Gerais (SIASG)/Compras.gov.br
+* Gestores e operadores de estados e municípios</p>
 
 ---
 
