@@ -31,10 +31,11 @@
 
 Consulte o Manual do SGA quando precisar de instruções mais detalhadas, explicações sobre os perfis, documentos exigidos ou outras telas do sistema.
 
-- **Página oficial do SGA:** gov.br/compras — Sistema de Gestão de Acesso ao SIASG
-- **Manuais do Portal de Compras:** gov.br/compras — Manuais
-- **Perguntas frequentes do SIASG:** gov.br/compras — Perguntas frequentes
-- **Guia de Atendimento 01 (Central de Atendimento):** material de apoio ao atendente.
+- [**Página oficial do SGA:**](https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/sistema-de-gestao-de-acesso-ao-siasg-sga) gov.br/compras — Sistema de Gestão de Acesso ao SIASG
+- [**Manuais do Portal de Compras:**](https://www.gov.br/compras/pt-br/acesso-a-informacao/manuais) gov.br/compras — Manuais
+- [**Perguntas frequentes do SIASG:**](https://www.gov.br/compras/pt-br/acesso-a-informacao/perguntas-frequentes/siasg) gov.br/compras — Perguntas frequentes
+- **Guia de Atendimento 01 ([Central de Atendimento](https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/central-de-atendimento)):** material de apoio ao atendente.
+
 
 ---
 
