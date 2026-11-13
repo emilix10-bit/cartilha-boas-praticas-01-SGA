@@ -157,7 +157,7 @@ Tenha em mãos antes de iniciar qualquer ação:
 | **Serviços sociais autônomos** | De modo geral, sim, conforme as regras aplicáveis a esse tipo de entidade. |
 
 !!! warning "ATENÇÃO"
-    Alguns acordos podem prever exceções. Antes de começar, confirme se seu órgão ou entidade precisa solicitar a adesão. Em caso de dúvida, consulte a Central de Atendimento.
+    Alguns acordos podem prever exceções. Antes de começar, confirme se seu órgão ou entidade precisa solicitar a adesão. Em caso de dúvida, consulte a [Central de Atendimento](https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/central-de-atendimento).
 
 ---
 
@@ -374,12 +374,12 @@ Escolha o perfil conforme a atividade que será realizada:
 
 ---
 
-Procure a Central de Atendimento quando o problema não estiver relacionado às pendências apresentadas pelo SGA ou quando a orientação do próprio sistema não resolver a situação.
+Procure a [Central de Atendimento](https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/central-de-atendimento) quando o problema não estiver relacionado às pendências apresentadas pelo SGA ou quando a orientação do próprio sistema não resolver a situação.
 
-!!! note "CANAL DA CENTRAL DE ATENDIMENTO"
+!!! note "CANAL DA [Central de Atendimento](https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/central-de-atendimento)"
     **0800 978 9001**  
     Selecione a **opção 6 – Outros sistemas** e, depois, a **subopção 1 – SGA**.  
-    *Para problemas de acesso à conta Gov.br, procure o suporte da própria conta no portal Gov.br.*
+    *Para problemas de acesso à conta Gov.br, procure o [suporte da própria conta no portal Gov.br](https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br).*
 
 ---
 
@@ -465,10 +465,10 @@ Procure a Central de Atendimento quando o problema não estiver relacionado às 
 
 Consulte o Manual do SGA quando precisar de instruções mais detalhadas, explicações sobre os perfis, documentos exigidos ou outras telas do sistema.
 
-- **Página oficial do SGA:** gov.br/compras — Sistema de Gestão de Acesso ao SIASG
-- **Manuais do Portal de Compras:** gov.br/compras — Manuais
-- **Perguntas frequentes do SIASG:** gov.br/compras — Perguntas frequentes
-- **Guia de Atendimento 01 (Central de Atendimento):** material de apoio ao atendente.
+- [**Página oficial do SGA:**](https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/sistema-de-gestao-de-acesso-ao-siasg-sga) gov.br/compras — Sistema de Gestão de Acesso ao SIASG
+- [**Manuais do Portal de Compras:**](https://www.gov.br/compras/pt-br/acesso-a-informacao/manuais) gov.br/compras — Manuais
+- [**Perguntas frequentes do SIASG:**](https://www.gov.br/compras/pt-br/acesso-a-informacao/perguntas-frequentes/siasg) gov.br/compras — Perguntas frequentes
+- **Guia de Atendimento 01 ([Central de Atendimento](https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/central-de-atendimento)):** material de apoio ao atendente.
 
 ---
 
